@@ -3,7 +3,7 @@ import Header from '../components/Header';
 import Footer from '../components/Footer';
 
 const KSBorderGuard = () => {
-  const { t } = useTranslation();
+  useTranslation();
 
   return (
     <div className="min-h-screen flex flex-col bg-sand">

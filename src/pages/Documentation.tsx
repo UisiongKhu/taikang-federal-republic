@@ -3,7 +3,7 @@ import Header from '../components/Header';
 import Footer from '../components/Footer';
 
 const Documentation = () => {
-  const { t } = useTranslation();
+  useTranslation();
 
   return (
     <div className="min-h-screen flex flex-col bg-sand">

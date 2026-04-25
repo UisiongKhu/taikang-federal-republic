@@ -1,6 +1,6 @@
 import { useEffect } from 'react';
 import { useTranslation } from 'react-i18next';
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import { HashRouter, Routes, Route } from 'react-router-dom';
 import Homepage from './pages/Homepage';
 import NationalOverview from './pages/NationalOverview';
 import NewsPage from './pages/NewsPage';
@@ -20,7 +20,7 @@ function App() {
   }, [i18n.language]);
 
   return (
-    <BrowserRouter>
+    <HashRouter>
       <Routes>
         <Route path="/" element={<Homepage />} />
         <Route path="/national-overview" element={<NationalOverview />} />
@@ -32,7 +32,7 @@ function App() {
         <Route path="/ks-border-guard" element={<KSBorderGuard />} />
         <Route path="/documentation" element={<Documentation />} />
       </Routes>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 

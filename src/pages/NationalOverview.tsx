@@ -146,13 +146,7 @@ const NationalOverview = () => {
             </p>
           </section>
 
-          {/* 經濟 */}
-          <section>
-            <h3 className="text-2xl font-bold text-brass mb-3 uppercase tracking-widest">{t('overview.sections.economy')}</h3>
-            <p className="text-lg leading-relaxed iansui-regular text-gray-800">
-              [經濟資料將在這裡顯示]
-            </p>
-          </section>
+
 
         </div>
       </main>

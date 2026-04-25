@@ -30,15 +30,29 @@ const Sidebar = () => {
       <div>
         <h3 className="font-bold uppercase tracking-widest mb-4 border-b-2 border-navy pb-2">{t('sidebar.links.title')}</h3>
         <ul className="space-y-3 text-sm">
-          {links.map((link, idx) => (
-            <li key={idx}>
-              {idx === 0 ? (
-                <Link to="/national-overview" className="hover:text-brass">{link}</Link>
-              ) : (
-                <a href="#" className="hover:text-brass">{link}</a>
-              )}
-            </li>
-          ))}
+          {links.map((link, idx) => {
+            // Mapping routes based on original order:
+            // 0: National Overview, 1: Government (Skip), 2: TKCA, 3: History, 4: KS Border Guard, 5: Documentation
+            const routes = [
+              '/national-overview',
+              null, // Skip Government
+              '/tkca',
+              '/history',
+              '/ks-border-guard',
+              '/documentation'
+            ];
+
+            const route = routes[idx];
+            if (route === null) return null;
+
+            return (
+              <li key={idx}>
+                <Link to={route} className="hover:text-brass transition-colors block py-1 border-b border-transparent hover:border-brass/30">
+                  {link}
+                </Link>
+              </li>
+            );
+          })}
         </ul>
       </div>
 

@@ -1,0 +1,99 @@
+{
+    "translation": {
+        "header": {
+            "title": "台江聯邦共和國",
+            "subtitle": "自 1860 年 (V.O.)",
+            "nav": {
+                "news": "新聞．公告",
+                "departments": "部門．軍事",
+                "history": "歷史",
+                "culture": "文化",
+                "apply": "申請入國"
+            }
+        },
+        "hero": {
+            "title_1": "獨立个鯤",
+            "title_2": "自由之潮",
+            "subtitle": "咱徛佇七股的沙洲，用英式的L1A1步銃守護咱个邊界。因為咱知影，縱使海風大，咱的步銃本底就有排沙崁。",
+            "cta_join": "加入共和國",
+            "cta_read": "讀檔案"
+        },
+        "news": {
+            "title": "內海新聞",
+            "articles": [
+                {
+                    "date": "1982.04.23",
+                    "tag": "官方公報",
+                    "title": "對L1A1的堅持：海風佮沙塵中的靈魂",
+                    "excerpt": "中央軍事委員會宣布，台江軍袂綴落SA80的流行。咱的步銃愛有英式的inch-pattern，又閣愛有\"sand cuts\"，才有法度佇沙洲活落去。這毋但是軍備的問題，是咱對原點的堅持...",
+                    "read_more": "陸續讀落去..."
+                },
+                {
+                    "date": "1982.04.15",
+                    "tag": "文學諷刺",
+                    "title": "欲按怎「剾洗」一个無民主的本島？",
+                    "excerpt": "車平的文學家寫著：「本島的人咧驚白色恐怖，毋過𪜶無看著咱沙洲的寧靜。」用19世紀的藝術來解說20世紀的哀悲。",
+                    "read_more": "陸續讀落去..."
+                }
+            ]
+        },
+        "sidebar": {
+            "property": {
+                "title": "共和國財產",
+                "description": "「提醒所有公民保養𪜶的裝備。沙是敵人，毋過也是咱的盾牌。」",
+                "btn_login": "公民登入",
+                "btn_asylum": "申請庇護"
+            },
+            "links": {
+                "title": "連結",
+                "items": [
+                    "‣ 國家概述",
+                    "‣ 政府組織",
+                    "‣ 台江文化會",
+                    "‣ 內海歷史",
+                    "‣ 京汕步銃隊",
+                    "‣ 書類"
+                ]
+            },
+            "branding_1": "© 1982 台江聯邦共和國。",
+            "branding_2": "佇中立沙洲協議下管轄。",
+            "branding_3": "L1A1保養手冊會當申請提著。"
+        },
+        "footer": {
+            "security": "安全狀態：懸",
+            "wind": "目前風向：西風15節",
+            "coordinate": "座標：23.111, 120.083"
+        },
+        "overview": {
+            "emblem_desc": "「英王王冠掛治天、獅甲抐杯護兩平、双獸踋踏紅絲帶、盾牌畫咱台江景」",
+            "flag_desc": "「倒平海、正平地、金色海線中央坐、大台灣港着是星」",
+            "sections": {
+                "name": "國名",
+                "flag": "國旗",
+                "emblem": "國徽",
+                "motto": "國家格言",
+                "languages": "法定語言",
+                "population": "人口",
+                "military": "軍事",
+                "economy": "經濟"
+            },
+            "lang_list": {
+                "taiwanese": "台員話",
+                "english": "英國話"
+            },
+            "military": {
+                "flag_label": "台江軍旗",
+                "name": "京汕步銃隊",
+                "type_label": "種類",
+                "type_value": "準軍事組織",
+                "func_label": "功能",
+                "func_value": "敵後作戰",
+                "form_label": "編制",
+                "form_value": "連",
+                "base_label": "駐地",
+                "base_value": "網仔寮汕（京汕）",
+                "disclaimer": "* 目前內海國互中華民國佔領治流亡狀態、無正式个軍隊。"
+            }
+        }
+    }
+}

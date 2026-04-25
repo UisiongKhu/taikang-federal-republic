@@ -1,0 +1,99 @@
+{
+    "translation": {
+        "header": {
+            "title": "Tâi-kang Liân-pang Kiōng-hô-kok",
+            "subtitle": "Chū 1860 nî (V.O.)",
+            "nav": {
+                "news": "Sin-bûn · Kong-kò",
+                "departments": "Pō͘-bûn · Kun-sū",
+                "history": "Le̍k-sú",
+                "culture": "Bûn-hòa",
+                "apply": "Sin-chhiáng Ji̍p-kok"
+            }
+        },
+        "hero": {
+            "title_1": "To̍k-li̍p ê khun",
+            "title_2": "Chū-iû chi tiâu",
+            "subtitle": "Lán khiā tī Chhit-kó͘ ê soa-chiu, iōng Eng-sek ê L1A1 pō͘-chhèng siú-hō͘ lán ê pian-kài. In-ūi lán chai-iáⁿ, chiòng-sú hái-hong tōa, lán ê pō͘-chhèng pún-té chiū ū pâi-soa-khàm.",
+            "cta_join": "Ka-ji̍p Kiōng-hô-kok",
+            "cta_read": "Tha̍k tóng-àn"
+        },
+        "news": {
+            "title": "Lāi-hái Sin-bûn",
+            "articles": [
+                {
+                    "date": "1982.04.23",
+                    "tag": "Koaⁿ-hong kong-pò",
+                    "title": "Tùi L1A1 ê kian-chhî: Hái-hong kap soa-tîn tiong ê lêng-hûn",
+                    "excerpt": "Tiong-iang kun-sū úi-oân-hōe soan-pò͘, Tâi-kang-kun bōe tòe lo̍h SA80 ê liû-hêng. Lán ê pō͘-chhèng ài ū Eng-sek ê inch-pattern, iū-koh ài ū \"sand cuts\", chiah ū hoat-tō͘ tī soa-chiu oa̍h--lo̍h-khì. Che m̄-nā sī kun-pī ê būn-tê, sī lán tùi goân-tiám ê kian-chhî...",
+                    "read_more": "Lio̍k-sio̍k tha̍k--lo̍h-khì..."
+                },
+                {
+                    "date": "1982.04.15",
+                    "tag": "Bûn-ha̍k hóng-chhì",
+                    "title": "Beh án-chóaⁿ \"khau-sé\" chi̍t ê bô bîn-chú ê pún-tó?",
+                    "excerpt": "Chhia-pêⁿ ê bûn-ha̍k-ka siá-tio̍h: \"Pún-tó ê lâng teh kiaⁿ pe̍h-sek khióng-pò͘, m̄-koh in bô khòaⁿ-tio̍h lán soa-chiu ê lêng-chēng.\" Iōng 19 sè-kí ê gē-su̍t lâi kái-soeh 20 sè-kí ê ai-pi.",
+                    "read_more": "Lio̍k-sio̍k tha̍k--lo̍h-khì..."
+                }
+            ]
+        },
+        "sidebar": {
+            "property": {
+                "title": "Kiōng-hô-kok châi-sán",
+                "description": "\"Thê-chhéⁿ só͘-ū kong-bîn pó-ióng in ê chong-pī. Soa sī te̍k-jîn, m̄-koh iā-sī lán ê tún-pâi.\"",
+                "btn_login": "Kong-bîn teng-ji̍p",
+                "btn_asylum": "Sin-chhiáng pì-hō͘"
+            },
+            "links": {
+                "title": "Liân-kiat",
+                "items": [
+                    "‣ Kok-ka Kài-su̍t",
+                    "‣ Chèng-hú Cho͘-chit",
+                    "‣ Tâi-kang Bûn-hòa-hōe",
+                    "‣ Lāi-hái Le̍k-sú",
+                    "‣ Kiaⁿ-sòaⁿ Pō͘-chhèng-tūi",
+                    "‣ Su-lūi"
+                ]
+            },
+            "branding_1": "© 1982 Tâi-kang Liân-pang Kiōng-hô-kok.",
+            "branding_2": "Tī tiong-li̍p soa-chiu hia̍p-gī ē koán-ha̍t.",
+            "branding_3": "L1A1 pó-ióng chhiú-chheh ē-tàng sin-chhiáng the̍h-tio̍h."
+        },
+        "footer": {
+            "security": "An-choân chōng-thài: Koân",
+            "wind": "Bo̍k-chiân hong-hiòng: Sai-hong 15 chiat",
+            "coordinate": "Chō-piau: 23.111, 120.083"
+        },
+        "overview": {
+            "emblem_desc": "\"Eng-ông ông-koan kòa tī thiⁿ, Sai kap lā-poe hō͘ nn̄g-pêng, Siang-siù kha-ta̍h âng si-tòa, Tún-pâi ōe lán Tâi-kang kéng.\"",
+            "flag_desc": "\"Tò-pêng hái, chiàⁿ-pêng tē, kim-sek hái-sòaⁿ tiong-ng chē, Tōa Tâi-oân Káng tio̍h-sī chheⁿ.\"",
+            "sections": {
+                "name": "Kok-miâ",
+                "flag": "Kok-kî",
+                "emblem": "Kok-hui",
+                "motto": "Kok-ka kek-giân",
+                "languages": "Hoat-tēng Gí-giân",
+                "population": "Jîn-kháu",
+                "military": "Kun-sū",
+                "economy": "Keng-chè"
+            },
+            "lang_list": {
+                "taiwanese": "Tâi-oân-ōe",
+                "english": "Eng-kok-ōe"
+            },
+            "military": {
+                "flag_label": "Tâi-kang Kun-kî",
+                "name": "Kiaⁿ-sòaⁿ Pō͘-chhèng-tūi",
+                "type_label": "Chióng-lūi",
+                "type_value": "Chún-kun-sū cho͘-chit",
+                "func_label": "Kong-lêng",
+                "func_value": "Te̍k-hō͘ chok-chiàn",
+                "form_label": "Pian-chè",
+                "form_value": "Liân",
+                "base_label": "Chù-tē",
+                "base_value": "Bāng-á-liâu-sòaⁿ (Kiaⁿ-sòaⁿ)",
+                "disclaimer": "* Bo̍k-chiân Lāi-hái-kok hō͘ Tiong-hôa Bîn-kok chiàm-niá tī liû-bông chōng-thài, bô chèng-sek ê kun-tūi."
+            }
+        }
+    }
+}

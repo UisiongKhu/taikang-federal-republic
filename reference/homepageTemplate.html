@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="nan-Hant">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>台江聯邦共和國 | Tai-Kang Federal Republic</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,400;0,700;1,400&family=Noto+Sans+TC:wght@300;400;700&display=swap"
+        rel="stylesheet">
+    <style>
+        :root {
+            --navy-blue: #001f3f;
+            --brass-gold: #c5a059;
+            --sand-white: #f4f1ea;
+        }
+
+        body {
+            font-family: 'Noto Sans TC', sans-serif;
+            background-color: var(--sand-white);
+            color: var(--navy-blue);
+        }
+
+        h1,
+        h2,
+        h3,
+        .serif {
+            font-family: 'Crimson Pro', serif;
+        }
+
+        .bg-navy {
+            background-color: var(--navy-blue);
+        }
+
+        .text-navy {
+            color: var(--navy-blue);
+        }
+
+        .border-brass {
+            border-color: var(--brass-gold);
+        }
+
+        .text-brass {
+            color: var(--brass-gold);
+        }
+
+        .retro-border {
+            border: 4px double var(--brass-gold);
+        }
+
+        .hero-gradient {
+            background: linear-gradient(rgba(0, 31, 63, 0.85), rgba(0, 31, 63, 0.85)),
+                url('https://images.unsplash.com/photo-1505118380757-91f5f5832de0?auto=format&fit=crop&q=80&w=2000');
+            background-size: cover;
+            background-position: center;
+        }
+
+        .sand-cut {
+            position: relative;
+        }
+
+        .sand-cut::after {
+            content: '';
+            position: absolute;
+            bottom: -5px;
+            left: 0;
+            width: 50px;
+            height: 3px;
+            background: var(--brass-gold);
+        }
+
+        /* Modern transitions */
+        .nav-link {
+            transition: all 0.3s ease;
+        }
+
+        .nav-link:hover {
+            color: var(--brass-gold);
+            letter-spacing: 1px;
+        }
+    </style>
+</head>
+
+<body class="min-h-screen">
+
+    <!-- Header & Navbar -->
+    <header class="bg-navy text-white py-6 px-4 md:px-12 border-b-4 border-brass">
+        <div class="max-w-7xl mx-auto flex flex-col md:flex-row justify-between items-center">
+            <div class="flex items-center space-x-4 mb-4 md:mb-0">
+                <!-- TKFR Seal (SVG) -->
+                <svg width="60" height="60" viewBox="0 0 100 100" class="fill-current text-brass">
+                    <circle cx="50" cy="50" r="45" fill="none" stroke="currentColor" stroke-width="2" />
+                    <path d="M50 20 L50 80 M20 50 L80 50" stroke="currentColor" stroke-width="1" />
+                    <text x="50" y="55" font-size="12" text-anchor="middle" font-family="serif">T.K.F.R</text>
+                    <path d="M30 70 Q50 40 70 70" fill="none" stroke="currentColor" stroke-width="2" />
+                    <!-- Sandbar icon -->
+                </svg>
+                <div>
+                    <h1 class="text-3xl font-bold tracking-widest uppercase">台江聯邦共和國</h1>
+                    <p class="serif italic text-sm text-brass tracking-tighter">Tai-Kang Federal Republic | Since 1860
+                        (V.O.)</p>
+                </div>
+            </div>
+
+            <nav class="flex space-x-6 text-sm uppercase tracking-widest font-bold">
+                <a href="#" class="nav-link">Pò-kò (News)</a>
+                <a href="#" class="nav-link">Bûn-ha̍k (Lit)</a>
+                <a href="#" class="nav-link">Chèng-tī (Politics)</a>
+                <a href="#" class="nav-link">Liân-lo̍k (Contact)</a>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="hero-gradient text-white py-24 px-4 border-b-8 border-navy">
+        <div class="max-w-4xl mx-auto text-center">
+            <h2 class="text-5xl md:text-7xl font-bold mb-6 serif italic">Sa-chiu ê To̍k-li̍p <br><span
+                    class="text-brass">Hái-âng ê Chū-iû</span></h2>
+            <p class="text-lg md:text-xl mb-10 font-light leading-relaxed max-w-2xl mx-auto">
+                Lán khiā tī chhit-kó͘ ê sa-chiu, iōng Eng-sek ê L1A1 pō͘-chhèng siú-hō͘ lán ê piⁿ-kài.
+                In-ūi lán chai-iáⁿ, chiòng-sú hái-hong tōa, lán ê pō͘-chhèng pún-té tō ū pâi-soa-khám.
+            </p>
+            <div class="flex justify-center space-x-4">
+                <button
+                    class="bg-brass text-navy px-8 py-3 font-bold uppercase tracking-widest hover:bg-white transition-colors">Join
+                    the Republic</button>
+                <button
+                    class="border border-white px-8 py-3 font-bold uppercase tracking-widest hover:bg-white hover:text-navy transition-colors">Read
+                    Archives</button>
+            </div>
+        </div>
+    </section>
+
+    <!-- News & Literary Section -->
+    <main class="max-w-7xl mx-auto py-16 px-4 grid grid-cols-1 md:grid-cols-3 gap-12">
+
+        <!-- News Column -->
+        <div class="md:col-span-2">
+            <h3 class="text-3xl font-bold mb-8 sand-cut uppercase italic">Sa-chiu Si̍t-sî Pò-kò</h3>
+
+            <div class="space-y-12">
+                <!-- Article 1 -->
+                <article class="group">
+                    <div class="flex items-baseline space-x-4 mb-2">
+                        <span class="text-brass font-bold serif text-xl">1982.04.23</span>
+                        <span class="bg-navy text-white text-xs px-2 py-1 uppercase">Official Gazette</span>
+                    </div>
+                    <h4 class="text-2xl font-bold mb-3 group-hover:text-brass transition-colors cursor-pointer">Tùi L1A1
+                        ê kian-chhî: Hái-hong kap sa-tīn tiong ê lîm-hûn</h4>
+                    <p class="text-gray-600 leading-relaxed mb-4">
+                        Tiong-iong kun-sū úi-ôan-hōe soan-pò͘, Tâi-kang-kun bōe tòe-lo̍h SA80 ê liû-hêng. Lán ê
+                        pō͘-chhèng ài ū Eng-sek ê inch-pattern,
+                        iū-koh ài ū "sand cuts", chiah ū hoat-tō͘ tī sa-chiu oa̍h-lo̍h-khì. Che m̄-tān-sī kun-pī ê
+                        būn-tê, sī lán tùi goân-tiám ê kian-chhî...
+                    </p>
+                    <a href="#" class="text-navy font-bold border-b-2 border-brass pb-1 hover:text-brass">Lio̍k-sio̍k
+                        tha̍k-khì...</a>
+                </article>
+
+                <!-- Article 2 -->
+                <article class="group">
+                    <div class="flex items-baseline space-x-4 mb-2">
+                        <span class="text-brass font-bold serif text-xl">1982.04.15</span>
+                        <span class="bg-gray-200 text-navy text-xs px-2 py-1 uppercase">Literary Satire</span>
+                    </div>
+                    <h4 class="text-2xl font-bold mb-3 group-hover:text-brass transition-colors cursor-pointer">Beh
+                        án-choáⁿ "khau-sé" chi̍t-ê bô bîn-chú ê pún-tó?</h4>
+                    <p class="text-gray-600 leading-relaxed mb-4">
+                        Tshia-pîⁿ ê bûn-ha̍k-ka siá-tio̍h: "Pún-tó ê lâng teh kiaⁿ pe̍h-sek khióng-pō͘, m̄-koh in bô
+                        khuàⁿ-tio̍h lán sa-chiu ê lêng-chēng."
+                        Iōng 19 sè-kì ê gāi-su̍t lái kái-soat 20 sè-kì ê ai-pi.
+                    </p>
+                    <a href="#" class="text-navy font-bold border-b-2 border-brass pb-1 hover:text-brass">Lio̍k-sio̍k
+                        tha̍k-khì...</a>
+                </article>
+            </div>
+        </div>
+
+        <!-- Sidebar / Link Area -->
+        <aside class="space-y-12">
+            <!-- Broad Arrow Section -->
+            <div class="retro-border p-6 bg-white shadow-xl">
+                <div class="flex justify-center mb-4">
+                    <svg width="40" height="40" viewBox="0 0 100 100" class="text-brass fill-current">
+                        <path d="M50 10 L80 90 L50 70 L20 90 Z" />
+                    </svg>
+                </div>
+                <h3 class="text-center font-bold uppercase tracking-widest mb-4">Property of the Republic</h3>
+                <p class="text-xs text-center text-gray-500 italic mb-6">"All citizens are reminded to maintain their
+                    equipment. Sand is the enemy, but also our shield."</p>
+                <div class="space-y-2">
+                    <a href="#"
+                        class="block w-full bg-navy text-white text-center py-2 text-sm hover:bg-brass transition-colors">Citizen
+                        Login</a>
+                    <a href="#"
+                        class="block w-full border border-navy text-navy text-center py-2 text-sm hover:bg-navy hover:text-white transition-colors">Apply
+                        for Asylum</a>
+                </div>
+            </div>
+
+            <!-- Links -->
+            <div>
+                <h3 class="font-bold uppercase tracking-widest mb-4 border-b-2 border-navy pb-2">Liân-kiat (Links)</h3>
+                <ul class="space-y-3 text-sm">
+                    <li><a href="#" class="hover:text-brass">‣ Tâi-kang Hái-kun Sū-līn-ián</a></li>
+                    <li><a href="#" class="hover:text-brass">‣ Kok-chì Jîn-koân Cho-chit</a></li>
+                    <li><a href="#" class="hover:text-brass">‣ Eng-kok Léng-sū-koán (Siū-koân)</a></li>
+                    <li><a href="#" class="hover:text-brass">‣ Sa-chiu Bûn-ha̍k Siá-chok-hōe</a></li>
+                </ul>
+            </div>
+
+            <!-- Footer Branding -->
+            <div class="pt-8">
+                <p class="text-xs text-gray-400 leading-tight">
+                    © 1982 Tai-Kang Federal Republic. <br>
+                    Administered under the Neutral Sandbar Protocol. <br>
+                    L1A1 Service Manual Available upon request.
+                </p>
+            </div>
+        </aside>
+
+    </main>
+
+    <!-- Footer Decoration -->
+    <footer class="bg-navy py-4 border-t-4 border-brass">
+        <div
+            class="max-w-7xl mx-auto px-4 flex justify-between items-center text-[10px] text-brass uppercase tracking-widest">
+            <span>Security Status: HIGH</span>
+            <span>Current Wind: 15kts West</span>
+            <span>Coordinate: 23.111, 120.083</span>
+        </div>
+    </footer>
+
+</body>
+
+</html>

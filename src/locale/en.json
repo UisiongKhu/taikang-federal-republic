@@ -1,0 +1,99 @@
+{
+  "translation": {
+    "header": {
+      "title": "Tai-Kang Federal Republic",
+      "subtitle": "Since 1860 (V.O.)",
+      "nav": {
+        "news": "News & Announcements",
+        "departments": "Departments & Military",
+        "history": "History",
+        "culture": "Culture",
+        "apply": "Apply for Entry"
+      }
+    },
+    "hero": {
+      "title_1": "Independence of the Sandbar",
+      "title_2": "Freedom of the Tides",
+      "subtitle": "We stand on the sandbars of Qigu, using British L1A1 rifles to guard our borders. For we know, even as the sea winds howl, our rifles have sand cuts.",
+      "cta_join": "Join the Republic",
+      "cta_read": "Read Archives"
+    },
+    "news": {
+      "title": "Sandbar Report",
+      "articles": [
+        {
+          "date": "1982.04.23",
+          "tag": "Official Gazette",
+          "title": "Insisting on the L1A1: The Soul in the Sea Wind and Sand Dust",
+          "excerpt": "The Central Military Commission announces that the Tai-Kang Forces will not follow the SA80 trend. Our rifles must be British inch-pattern, and must have \"sand cuts\" to survive on the sandbar. This is not just a matter of armaments, but our insistence on our origins...",
+          "read_more": "Continue reading..."
+        },
+        {
+          "date": "1982.04.15",
+          "tag": "Literary Satire",
+          "title": "How to \"mock\" an undemocratic main island?",
+          "excerpt": "The writers of the plains write: \"The people on the main island are living in fear of the white terror, yet they cannot see the tranquility of our sandbar.\" Using 19th-century art to explain the sorrow of the 20th century.",
+          "read_more": "Continue reading..."
+        }
+      ]
+    },
+    "sidebar": {
+      "property": {
+        "title": "Property of the Republic",
+        "description": "\"All citizens are reminded to maintain their equipment. Sand is the enemy, but also our shield.\"",
+        "btn_login": "Citizen Login",
+        "btn_asylum": "Apply for Asylum"
+      },
+      "links": {
+        "title": "Links",
+        "items": [
+          "‣ National Overview",
+          "‣ Government Organization",
+          "‣ Tai Kang Cultural Association",
+          "‣ Inner Sea History",
+          "‣ Kiaⁿ-soàⁿ Infantry",
+          "‣ Documentation"
+        ]
+      },
+      "branding_1": "© 1982 Tai-Kang Federal Republic.",
+      "branding_2": "Administered under the Neutral Sandbar Protocol.",
+      "branding_3": "L1A1 Service Manual Available upon request."
+    },
+    "footer": {
+      "security": "Security Status: HIGH",
+      "wind": "Current Wind: 15kts West",
+      "coordinate": "Coordinate: 23.111, 120.083"
+    },
+    "overview": {
+      "emblem_desc": "\"The British Crown hangs in the sky, the Lion and Pelican guard both sides, twin beasts step on the red ribbon, and the shield depicts our Tai-Kang scenery.\"",
+      "flag_desc": "\"Sea on the left, land on the right, in the middle we got the golden coastline, and An-pêng Port is the only star in our eyes.\"",
+      "sections": {
+        "name": "Official Name",
+        "flag": "National Flag",
+        "emblem": "National Emblem",
+        "motto": "National Motto",
+        "languages": "Official Languages",
+        "population": "Population",
+        "military": "Military",
+        "economy": "Economy"
+      },
+      "lang_list": {
+        "taiwanese": "Taiwanese",
+        "english": "English"
+      },
+      "military": {
+        "flag_label": "Tai Kang Armed Forces Flag",
+        "name": "Kiaⁿ-sòaⁿ Border Guard",
+        "type_label": "Type",
+        "type_value": "Paramilitary",
+        "func_label": "Role",
+        "func_value": "Behind-enemy-lines Ops",
+        "form_label": "Size",
+        "form_value": "Company",
+        "base_label": "Base",
+        "base_value": "Bang-a-liau Sandbar (Kiaⁿ-sòaⁿ)",
+        "disclaimer": "* Currently, Tai-kang is occupied by the ROC and is in a state of exile, with no formal military."
+      }
+    }
+  }
+}

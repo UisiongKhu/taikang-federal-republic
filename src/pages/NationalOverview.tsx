@@ -7,7 +7,7 @@ import MilitaryFlag from '../assets/Flag_of_TaiKangArmedForces.png';
 
 const NationalOverview = () => {
   const { t, i18n } = useTranslation();
-  
+
   // We can get the title from the sidebar translation to keep it consistent
   const links = t('sidebar.links.items', { returnObjects: true }) as string[];
   const title = links[0]?.replace('‣ ', '') || 'National Overview';
@@ -19,9 +19,9 @@ const NationalOverview = () => {
         <h2 className="text-3xl font-bold uppercase tracking-widest mb-10 border-b-4 border-brass pb-2 inline-block header-main-title">
           {title}
         </h2>
-        
+
         <div className="bg-white p-8 md:p-12 retro-border shadow-xl space-y-12">
-          
+
           {/* 國名 */}
           <section>
             <h3 className="text-2xl font-bold text-brass mb-4 uppercase tracking-widest">{t('overview.sections.name')}</h3>
@@ -106,26 +106,38 @@ const NationalOverview = () => {
           {/* 軍事 */}
           <section>
             <h3 className="text-2xl font-bold text-brass mb-4 uppercase tracking-widest">{t('overview.sections.military')}</h3>
-            <div className="grid grid-cols-1 md:grid-cols-[1fr_2fr] gap-8 items-start bg-sand/30 p-8 retro-border border-l-4 border-l-navy">
-              <div className="flex flex-col items-center">
-                <img src={MilitaryFlag} alt="Flag of Tai Kang Armed Forces" className="w-full max-w-xs border-2 border-navy object-contain shadow-md mb-4" />
-                <span className="text-sm font-bold text-gray-600 tracking-widest">{t('overview.military.flag_label')}</span>
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-8 items-center bg-sand/30 p-8 retro-border border-l-4 border-l-navy">
+              <div className="flex flex-col items-center justify-center md:border-r-2 md:border-brass/40 md:pr-8">
+                <div className="h-48 md:h-56 flex items-center justify-center mb-4">
+                  <img src={MilitaryFlag} alt="Flag of Tai Kang Armed Forces" className="h-full w-auto border-2 border-navy object-contain shadow-md" />
+                </div>
+                <span className="text-sm font-bold text-gray-600 tracking-widest text-center">{t('overview.military.flag_label')}</span>
               </div>
-              <div className="text-left">
-                <h4 className="text-2xl md:text-3xl font-bold text-navy tracking-widest mb-6 header-main-title border-b-2 border-brass pb-2 inline-block">{t('overview.military.name')}</h4>
-                
-                <div className="grid grid-cols-[auto_1fr] gap-x-6 gap-y-4 text-lg leading-relaxed iansui-regular text-gray-800">
-                  <div className="font-bold text-brass tracking-widest text-right">{t('overview.military.type_label')}:</div>
-                  <div className="font-bold tracking-widest">{t('overview.military.type_value')}</div>
+              <div className="flex flex-col items-center justify-center w-full">
+                <div className="flex flex-col items-start text-left">
+                  <h4 className="text-2xl md:text-3xl font-bold text-navy tracking-widest mb-6 header-main-title border-b-2 border-brass pb-2 inline-block">{t('overview.military.name')}</h4>
                   
-                  <div className="font-bold text-brass tracking-widest text-right">{t('overview.military.func_label')}:</div>
-                  <div className="font-bold tracking-widest">{t('overview.military.func_value')}</div>
-                  
-                  <div className="font-bold text-brass tracking-widest text-right">{t('overview.military.form_label')}:</div>
-                  <div className="font-bold tracking-widest">{t('overview.military.form_value')}</div>
-                  
-                  <div className="font-bold text-brass tracking-widest text-right">{t('overview.military.base_label')}:</div>
-                  <div className="font-bold tracking-widest">{t('overview.military.base_value')}</div>
+                  <div className="flex flex-col gap-y-4 text-lg leading-relaxed iansui-regular text-gray-800 items-start">
+                    <div className="flex gap-x-4">
+                      <span className="font-bold text-brass tracking-widest">{t('overview.military.type_label')}:</span>
+                      <span className="font-bold tracking-widest">{t('overview.military.type_value')}</span>
+                    </div>
+                    
+                    <div className="flex gap-x-4">
+                      <span className="font-bold text-brass tracking-widest">{t('overview.military.func_label')}:</span>
+                      <span className="font-bold tracking-widest">{t('overview.military.func_value')}</span>
+                    </div>
+                    
+                    <div className="flex gap-x-4">
+                      <span className="font-bold text-brass tracking-widest">{t('overview.military.form_label')}:</span>
+                      <span className="font-bold tracking-widest">{t('overview.military.form_value')}</span>
+                    </div>
+                    
+                    <div className="flex gap-x-4">
+                      <span className="font-bold text-brass tracking-widest">{t('overview.military.base_label')}:</span>
+                      <span className="font-bold tracking-widest">{t('overview.military.base_value')}</span>
+                    </div>
+                  </div>
                 </div>
               </div>
             </div>

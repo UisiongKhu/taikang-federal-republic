@@ -1,73 +1,72 @@
-# React + TypeScript + Vite
+# Tai Kang Federal Republic (台江聯邦共和國) Official Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the official website repository of the **Tai Kang Federal Republic** (Tâi-kang Liân-pang Kiōng-hô-kok / 台江聯邦共和國). This project serves as the digital portal for the nation, featuring an official government-archive aesthetic, rich historical context, and comprehensive trilingual support.
 
-Currently, two official plugins are available:
+## 🌟 Key Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+* **Trilingual Interface (多語系支援)**
+  Fully localized in three languages, allowing users to seamlessly switch between:
+  * **English** (國際通用語言)
+  * **Hanzi (漢字)** (台語漢字)
+  * **Pe̍h-ōe-jī (白話字 / POJ)** (台語羅馬拼音)
+* **Retro Government Aesthetic (復古官方風格)**
+  The UI is designed with a 1980s official archive vibe, utilizing a carefully curated color palette (Navy Blue, Brass Gold, Sand White) and classic typography.
+* **Custom Typography (專屬字型)**
+  Integrates multiple custom font faces to ensure perfect rendering across all supported languages:
+  * *Crimson Pro* for English serif headings.
+  * *Iansui (芫荽體)* for the main body text.
+  * *POJ Garamond* & *POJ Phiaute* for elegant Pe̍h-ōe-jī typography.
+  * *GenRyuMin (源流明體)* & *GenSekiGothic (源石黑體)* for traditional Hanzi characters.
+* **Modern Stack (現代化技術架構)**
+  Built as a fast, responsive Single Page Application (SPA).
 
-## React Compiler
+## 🚀 Technology Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* **Framework**: [React 18](https://reactjs.org/) + [Vite](https://vitejs.dev/)
+* **Routing**: [React Router v7](https://reactrouter.com/)
+* **Styling**: [Tailwind CSS](https://tailwindcss.com/)
+* **Internationalization**: [react-i18next](https://react.i18next.com/)
+* **Icons**: Custom SVG assets & Phosphor Icons
 
-## Expanding the ESLint configuration
+## 📂 Project Structure
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
-
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
-
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
+```text
+src/
+├── assets/       # Static assets including national flags, emblems, and custom fonts
+├── components/   # Reusable UI components (Header, Footer, Sidebar, ArticleContent)
+├── locale/       # i18n translation JSON files (en.json, tg_HL.json, tg_POJ.json)
+├── pages/        # Page components (Homepage, NationalOverview, etc.)
+├── App.tsx       # Main application routing and layout wrapper
+├── i18n.ts       # i18next configuration
+└── index.css     # Global styles and font-face declarations
 ```
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+## 🛠️ Getting Started
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+### Prerequisites
+Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
 
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/UisiongKhu/taikang-federal-republic.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd taikang-federal-republic
+   ```
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+### Running Locally
+To start the development server:
+```bash
+npm run dev
 ```
+Open [http://localhost:5173](http://localhost:5173) in your browser to view the site.
+
+## 📜 License
+MIT License

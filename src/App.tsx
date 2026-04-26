@@ -17,6 +17,14 @@ function App() {
   useEffect(() => {
     document.documentElement.className = `lang-${i18n.language}`;
     document.documentElement.lang = i18n.language;
+
+    // Update window title based on language
+    const titles: Record<string, string> = {
+      'en': 'Tâi Kang Federal Republic',
+      'tg_HL': '台江聯邦共和國 TKFR',
+      'tg_POJ': 'Tâi Kang Liân pang K.H.K.'
+    };
+    document.title = titles[i18n.language] || 'Tâi Kang Federal Republic';
   }, [i18n.language]);
 
   return (

@@ -1,4 +1,5 @@
 import { useTranslation } from 'react-i18next';
+import { useNavigate } from 'react-router-dom';
 import Header from '../components/Header';
 import Footer from '../components/Footer';
 import News from '../components/News';
@@ -6,6 +7,7 @@ import Sidebar from '../components/Sidebar';
 
 const Homepage = () => {
   const { t, i18n } = useTranslation();
+  const navigate = useNavigate();
 
   return (
     <div className="min-h-screen font-sans bg-sand text-navy">
@@ -25,7 +27,10 @@ const Homepage = () => {
             <button className="bg-brass text-navy px-8 py-3 font-bold uppercase tracking-widest hover:bg-white transition-colors cursor-pointer border-none">
               {t('hero.cta_join')}
             </button>
-            <button className="border border-white bg-transparent text-white px-8 py-3 font-bold uppercase tracking-widest hover:bg-white hover:text-navy transition-colors cursor-pointer">
+            <button 
+              onClick={() => navigate('/news')}
+              className="border border-white bg-transparent text-white px-8 py-3 font-bold uppercase tracking-widest hover:bg-white hover:text-navy transition-colors cursor-pointer"
+            >
               {t('hero.cta_read')}
             </button>
           </div>
@@ -34,7 +39,7 @@ const Homepage = () => {
 
       {/* News & Literary Section */}
       <main className="max-w-7xl mx-auto py-16 px-4 grid grid-cols-1 md:grid-cols-3 gap-12">
-        <News />
+        <News onArticleClick={(article) => navigate('/news', { state: { article } })} />
         <Sidebar />
       </main>
 

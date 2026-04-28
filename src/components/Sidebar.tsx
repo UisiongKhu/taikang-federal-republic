@@ -39,8 +39,7 @@ const Sidebar = () => {
               '/tkca',
               '/history',
               '/ks-border-guard',
-              '/documentation',
-              '/laws'
+              '/documentation'
             ];
 
             const route = routes[idx];

@@ -35,7 +35,7 @@
           "tag": "文學",
           "title": "How to \"mock\" an undemocratic main island?",
           "excerpt": "The writers of the plains write: \"The people on the main island are living in fear of the white terror...\"",
-          "content": "The writers of the plains write: \"The people on the main island are living in fear of the white terror, yet they cannot see the tranquility of our sandbar.\" Using 19th-century art to explain the sorrow of the 20th century. In the Tai-Kang Federal Republic, we do not need to fear the government, because we are the government. We build our dreams on the sandbars; though the sea wind is strong and sand blows into our eyes, our hearts are free. The people on the main island pursue money; we pursue the sovereignty to speak out loud.",
+          "content": "The writers of the plains write: \"The people on the main island are living in fear of the white terror, yet they cannot see the tranquillity of our sandbar.\" Using 19th-century art to explain the sorrow of the 20th century. In the Tai-Kang Federal Republic, we do not need to fear the government, because we are the government. We build our dreams on the sandbars; though the sea wind is strong and sand blows into our eyes, our hearts are free. The people on the main island pursue money; we pursue the sovereignty to speak out loud.",
           "read_more": "Continue reading..."
         },
         {
@@ -43,7 +43,7 @@
           "tag": "新聞",
           "title": "Inner Sea Trade Agreement Signed",
           "excerpt": "Today, the Tai-Kang Federal Republic and neighboring sandbar tribes reached a trade consensus...",
-          "content": "Today, the Tai-Kang Federal Republic and neighboring sandbar tribes reached a trade consensus. This agreement will ensure the free flow of salt, dried fish, and imported materials within the Inner Sea region. This is a major step forward in our country's diplomatic history. Although our country is still in exile, our economic autonomy cannot be ignored. The trade representative noted that future focus will be on building better supply lines to support the frontline Kiaⁿ-soàⁿ Infantry.",
+          "content": "Today, the Tai-Kang Federal Republic and neighbouring sandbar tribes reached a trade consensus. This agreement will ensure the free flow of salt, dried fish, and imported materials within the Inner Sea region. This is a major step forward in our country's diplomatic history. Although our country is still in exile, our economic autonomy cannot be ignored. The trade representative noted that future focus will be on building better supply lines to support the frontline Kiaⁿ-soàⁿ Infantry.",
           "read_more": "Continue reading..."
         },
         {
@@ -67,12 +67,11 @@
         "title": "Links",
         "items": [
           "‣ National Overview",
-          "‣ Government Organization",
+          "‣ Government Organisation",
           "‣ Tai Kang Cultural Association",
           "‣ Inner Sea History",
           "‣ Kiaⁿ-soàⁿ Infantry",
-          "‣ Documentation",
-          "‣ Laws"
+          "‣ Documentation"
         ]
       },
       "branding_1": "© 1982 Tai-Kang Federal Republic.",
@@ -153,7 +152,7 @@
           },
           {
             "name": "Kiaⁿ-soàⁿ Infantry",
-            "desc": "Paramilitary organization preparing for D-day"
+            "desc": "Paramilitary organisation preparing for D-day"
           }
         ]
       },
@@ -219,6 +218,36 @@
               "Military Court",
               "Administrative Court"
             ]
+          }
+        ]
+      }
+    },
+    "laws": {
+      "declaration": {
+        "title": "Exile Declaration of the Tai-Kang Federal Republic",
+        "preamble_header": "[Preamble]",
+        "preamble_content": "Due to the evolution of the current situation in Taiwan and the trend toward democratisation of the Republic of China regime. We, the Tai-Kang descendants, have endured for more than ten years, and it is with great difficulty that we finally have basic freedom of speech and political freedom. Now the time has come, in order to continue the national legitimacy and safeguard the sovereignty of the Inner Sea, we officially announce the establishment of a Government-in-Exile and demand national restoration from the government currently in power over the Republic of China.",
+        "articles_header": "[Declaration Articles]",
+        "articles": [
+          {
+            "title": "Article 1: Change of Government Status",
+            "content": "The 'Tai-Kang Federal Republic Exile Government' established today is declared the legal successor to the former 'Tai-Kang Federal Republic Government.' Since Tai-Kang is currently occupied by the Republic of China, this Exile Government is specifically established to temporarily maintain the Tai-Kang legal succession."
+          },
+          {
+            "title": "Article 2: Reorganisation of Military",
+            "content": "For the cause of national restoration, the 'Kiaⁿ-soàⁿ Border Guard' is formed, to be reorganised as the national defence force after restoration.\nFormer members of the Tai-Kang Federal Republic military, or Tai-Kang descendants who previously served in the Republic of China military as NCOs or above, are eligible to apply."
+          },
+          {
+            "title": "Article 3: Diplomacy and Petition",
+            "content": "We invite all Tai-Kang descendants and all people who support freedom to officially submit a petition to President Chen Shui-bian of the Republic of China. We demand respect for historical treaties, recognition of the sovereignty of the Inner Sea, and assistance to the Tai-Kang Federal Republic in restoring its legal status."
+          },
+          {
+            "title": "Article 4: Organisational Measures",
+            "content": "This article defines the administrative bodies at the founding of the Government-in-Exile. There are three administrative bodies listed below:\n1. Office of the President: Responsible for organisational management and personnel appointments; the highest organ of the Government-in-Exile, headed by the President.\n2. Ministry of Publicity: Responsible for publicity and diplomacy; the external window of the Government-in-Exile, headed by the Minister of Publicity.\n3. Kiaⁿ-soàⁿ Border Guard: A paramilitary organisation responsible for data collection and self-training of former Tai-Kang military personnel, headed by the Commander of the Border Guard."
+          },
+          {
+            "title": "Article 5: Financial and Donation Measures",
+            "content": "Financial information regarding the operation of the Government-in-Exile shall be open for inspection by the Tai-Kang public. Those wishing to make a donation should contact us by mail."
           }
         ]
       }

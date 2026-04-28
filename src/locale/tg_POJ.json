@@ -8,6 +8,7 @@
                 "departments": "Pō͘-bûn · Kun-sū",
                 "history": "Le̍k-sú",
                 "culture": "Bûn-hòa",
+                "laws": "Hoat-lu̍t",
                 "apply": "Sin-chhiáng Ji̍p-kok"
             }
         },
@@ -70,8 +71,7 @@
                     "‣ Tâi-kang Bûn-hòa-hōe",
                     "‣ Lāi-hái Le̍k-sú",
                     "‣ Kiaⁿ-sòaⁿ Pō͘-chhèng-tūi",
-                    "‣ Su-lūi",
-                    "‣ Hoat-lu̍t"
+                    "‣ Su-lūi"
                 ]
             },
             "branding_1": "© 1982 Tâi-kang Liân-pang Kiōng-hô-kok.",
@@ -220,6 +220,36 @@
           }
         ]
       }
-        }
+    },
+    "laws": {
+      "declaration": {
+        "title": "Tâi-kang Liân-pang Kiōng-hô-kok Liû-bông Soan-giân",
+        "preamble_header": "[Chiân-giân]",
+        "preamble_content": "In-ūi taⁿ Tâi-oân-tó sî-kéng chi e̍k-piàn, kap Tiong-hôa Bîn-kok chèng-koân bîn-chú-hòa ê chhu-sè. Lán Tâi-kang lo̍k-bîn thun-lún cha̍p-kúi-tang, chin bô-kán-tan chiah ū ki-pún ê giân-lūn kap chèng-tī chū-iû. Taⁿ sî-ki í-keng kàu-lâi, ūi-tio̍h liân-sio̍k kok-ka hoat-thóng, bî-hō͘ lāi-hái chú-koân, lán chìng-sek soan-pò͘ sêng-li̍p liû-bông chèng-hú, hiòng bo̍k-chiân chiat-chiáng Tiong-hôa Bîn-kok chèng-koân ê chèng-hú thê-chhut ho̍k-kok iau-kiû.",
+        "articles_header": "[Soan-giân Tiâu-bûn]",
+        "articles": [
+          {
+            "title": "Tē-it tiâu: Chèng-hú tēng-ūi chi piàn-keng",
+            "content": "Soan-kò kim-á-ji̍t sêng-li̍p ê 「Tâi-kang Liân-pang Kiōng-hô-kok Liû-bông Chèng-hú」 sī chiân 「Tâi-kang Liân-pang Kiōng-hô-kok Chèng-hú」 ê hoat-lí kè-sêng chèng-hú. In-ūi bo̍k-chiân Tâi-kang iáu-sī Tiong-hôa Bîn-kok só͘ chiàm, só͘-í tek-pia̍t khí-chò chhú-ê liû-bông chèng-hú chiām-sî sian chài-sio̍k Tâi-kang hoat-thóng."
+          },
+          {
+            "title": "Tē-jī tiâu: Kun-sū bú-chong chi tiông-chó͘",
+            "content": "Ūi-tio̍h ho̍k-kok ê chì-gia̍p, chó͘-sêng 「Kiaⁿ-sòaⁿ Pō͘-chhèng-tūi」, thāi ho̍k-kok liáu-āu tiông-ko閣建軍防衛台江。\nHuân chiân Tâi-kang Liân-pang Kiōng-hô-kok kun sêng-oân, ho̍k-chiá chìng-chiân tī Tiong-hôa Bîn-kok kok-kun chò sū-koan í-siāng ê Tâi-kang-ē sêng-oân, lóng thàng sin-chhéng ka-ji̍p."
+          },
+          {
+            "title": "Tē-saⁿ tiâu: Gōa-kau kap chhiáⁿ-goān",
+            "content": "Lán chhiáⁿ choân-thé Tâi-kang lo̍k-bîn kap chi-chhî chū-iû ê chiòng-lâng, chìng-sek hiòng Tiong-hôa Bîn-kok Tân Chúi-piⁿ Chóng-thóng thê-chhut chhiáⁿ-goān. Lán sò͘-kiû chun-tiòng le̍k-sú khè-iok, chìng-sī lāi-hái chú-koân, hia̍p-chō͘ Tâi-kang Liân-pang Kiōng-hô-kok hoē-ho̍k i ê hoat-lí tē-ūi."
+          },
+          {
+            "title": "Tē-sì tiâu: Chó͘-chit pān-hoat",
+            "content": "Pún tiâu tēng-gī liû-bông chèng-hú chhòng-siat sî ê gia̍p-bū ki-koan. Liû-bông chèng-hú ê gia̍p-bū ki-koan ū saⁿ hāng lia̍t tī ē-bīn.\n1. Tāi-thóng-lé Pān-kong-sek: Hū-tek liû-bông chèng-hú ê chó͘-chit koán-lí kap jîn-sū jīm-bián; sī liû-bông chèng-hú siāng-koân-chân ê ki-koan, àn-thâu-ê sī liû-bông chèng-hú Tāi-thóng-lé.\n2. Soan-thoân-pō͘: Hū-tek liû-bông chèng-hú ê soan-thoân kap gōa-kau; sī liû-bông chèng-hú tùi-gōa ê thang-á, àn-thâu-ê sī liû-bông chèng-hú Soan-thoân-pō͘-tiúⁿ.\n3. Kiaⁿ-sòaⁿ Pō͘-chhèng-tūi: Hū-tek kū Tâi-kang kun-jîn ê chu-liāu siu-chi̍p kap chū-pó-hūn-liān ê chún-kun-sū chó͘-chit, àn-thâu-ê sī liû-bông chèng-hú Kiaⁿ-sòaⁿ Pō͘-chhèng-tūi tūi-tiúⁿ."
+          },
+          {
+            "title": "Tē-gō͘ tiâu: Châi-bū kap kì-hù pān-hoat",
+            "content": "Liû-bông chèng-húūn-chok ê châi-bū chu-liāu thàng hō͘ Tâi-kang tāi-chiòng oa̍t-lám; nâ-pòaⁿ Tâi-kang tāi-chiòng ū-lâng beh kì-hù chhiáⁿ kià-phue lâi liân-lo̍k."
+          }
+        ]
+      }
     }
+  }
 }

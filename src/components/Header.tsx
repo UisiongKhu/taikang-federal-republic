@@ -33,6 +33,7 @@ const Header = () => {
           <Link to="/departments" className="nav-link text-white no-underline hover:text-brass">{t('header.nav.departments')}</Link>
           <Link to="/history" className="nav-link text-white no-underline hover:text-brass">{t('header.nav.history')}</Link>
           <Link to="/culture" className="nav-link text-white no-underline hover:text-brass">{t('header.nav.culture')}</Link>
+          <Link to="/laws" className="nav-link text-white no-underline hover:text-brass">{t('header.nav.laws')}</Link>
           <a href="#" className="nav-link text-brass no-underline">{t('header.nav.apply')}</a>
 
           <select

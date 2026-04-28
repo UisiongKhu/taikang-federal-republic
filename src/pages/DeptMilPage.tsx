@@ -17,7 +17,7 @@ interface DepartmentData {
 }
 
 const DeptMilPage = () => {
-  const { t } = useTranslation();
+  const { t, i18n } = useTranslation();
 
   const deJureItems = t('dept.de_jure.items', { returnObjects: true }) as Array<{ name: string; desc: string }>;
   const exileItems = t('dept.exile.items', { returnObjects: true }) as Array<{ name: string; desc: string }>;
@@ -149,41 +149,66 @@ const DeptMilPage = () => {
               {t('overview.sections.military')}
             </h2>
 
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-8 items-center bg-sand/30 p-8 retro-border border-l-4 border-l-navy">
-              <div className="flex flex-col items-center justify-center md:border-r-2 md:border-brass/40 md:pr-8">
-                <div className="h-48 md:h-56 flex items-center justify-center mb-4">
-                  <img src={MilitaryFlag} alt="Flag of Tai Kang Armed Forces" className="h-full w-auto border-2 border-navy object-contain shadow-md" />
+            <div className="bg-sand/30 p-8 retro-border border-l-4 border-l-navy space-y-8">
+              {/* 頂面兩欄: 軍旗與資料 Top Section: Flag and Info */}
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
+                <div className="flex flex-col items-center justify-center md:border-r-2 md:border-brass/40 md:pr-8">
+                  <div className="h-48 md:h-56 flex items-center justify-center mb-4">
+                    <img src={MilitaryFlag} alt="Flag of Tai Kang Armed Forces" className="h-full w-auto border-2 border-navy object-contain shadow-md" />
+                  </div>
+                  <span className="text-sm font-bold text-gray-600 tracking-widest text-center">{t('overview.military.flag_label')}</span>
                 </div>
-                <span className="text-sm font-bold text-gray-600 tracking-widest text-center">{t('overview.military.flag_label')}</span>
-              </div>
-              <div className="flex flex-col items-center justify-center w-full">
-                <div className="flex flex-col items-start text-left">
-                  <h4 className="text-2xl md:text-3xl font-bold text-navy tracking-widest mb-6 header-main-title border-b-2 border-brass pb-2 inline-block">{t('overview.military.name')}</h4>
-                  
-                  <div className="flex flex-col gap-y-4 text-lg leading-relaxed iansui-regular text-gray-800 items-start">
-                    <div className="flex gap-x-4">
-                      <span className="font-bold text-brass tracking-widest">{t('overview.military.type_label')}:</span>
-                      <span className="font-bold tracking-widest">{t('overview.military.type_value')}</span>
-                    </div>
+                <div className="flex flex-col items-center justify-center w-full">
+                  <div className="flex flex-col items-start text-left">
+                    <h4 className="text-2xl md:text-3xl font-bold text-navy tracking-widest mb-6 header-main-title border-b-2 border-brass pb-2 inline-block">{t('overview.military.name')}</h4>
                     
-                    <div className="flex gap-x-4">
-                      <span className="font-bold text-brass tracking-widest">{t('overview.military.func_label')}:</span>
-                      <span className="font-bold tracking-widest">{t('overview.military.func_value')}</span>
-                    </div>
-                    
-                    <div className="flex gap-x-4">
-                      <span className="font-bold text-brass tracking-widest">{t('overview.military.form_label')}:</span>
-                      <span className="font-bold tracking-widest">{t('overview.military.form_value')}</span>
-                    </div>
-                    
-                    <div className="flex gap-x-4">
-                      <span className="font-bold text-brass tracking-widest">{t('overview.military.base_label')}:</span>
-                      <span className="font-bold tracking-widest">{t('overview.military.base_value')}</span>
+                    <div className="flex flex-col gap-y-4 text-lg leading-relaxed iansui-regular text-gray-800 items-start">
+                      <div className="flex gap-x-4">
+                        <span className="font-bold text-brass tracking-widest">{t('overview.military.type_label')}:</span>
+                        <span className="font-bold tracking-widest">{t('overview.military.type_value')}</span>
+                      </div>
+                      
+                      <div className="flex gap-x-4">
+                        <span className="font-bold text-brass tracking-widest">{t('overview.military.func_label')}:</span>
+                        <span className="font-bold tracking-widest">{t('overview.military.func_value')}</span>
+                      </div>
+                      
+                      <div className="flex gap-x-4">
+                        <span className="font-bold text-brass tracking-widest">{t('overview.military.form_label')}:</span>
+                        <span className="font-bold tracking-widest">{t('overview.military.form_value')}</span>
+                      </div>
+                      
+                      <div className="flex gap-x-4">
+                        <span className="font-bold text-brass tracking-widest">{t('overview.military.base_label')}:</span>
+                        <span className="font-bold tracking-widest">{t('overview.military.base_value')}</span>
+                      </div>
                     </div>
                   </div>
                 </div>
               </div>
+
+              {/* 下面一欄: 軍事格言 Bottom Section: Motto */}
+              <div className="border-t-2 border-brass/20 pt-8 text-center">
+                {i18n.language === 'en' ? (
+                  <div className="space-y-4">
+                    <div className="text-xl md:text-3xl font-bold text-navy tracking-[0.2em] uppercase leading-relaxed text-center" style={{ fontFamily: "'POJ Garamond08 Regular', serif" }}>
+                      <p>{t('overview.military.motto_poj').split(',')[0]}</p>
+                      <p>{t('overview.military.motto_poj').split(',')[1]?.trim()}</p>
+                    </div>
+                    <p className="text-xs md:text-sm text-brass tracking-widest uppercase mt-2 font-bold">
+                      {t('overview.military.motto_en')}
+                    </p>
+                  </div>
+                ) : (
+                  <div className={`text-2xl md:text-${i18n.language === 'tg_HL' ? '4xl' : '3xl'} font-bold text-navy tracking-[0.2em] header-main-title py-2 leading-loosed ${i18n.language === 'tg_POJ' ? 'uppercase' : ''}`}>
+                    <p>{t('overview.military.motto').includes('、') ? t('overview.military.motto').split('、')[0] : t('overview.military.motto').split(',')[0]}</p>
+                    <p>{t('overview.military.motto').includes('、') ? t('overview.military.motto').split('、')[1] : t('overview.military.motto').split(',')[1]?.trim()}</p>
+                  </div>
+                )}
+              </div>
             </div>
+            
+
             <p className="mt-3 text-sm text-gray-600 italic iansui-regular tracking-wide">
               {t('overview.military.disclaimer')}
             </p>

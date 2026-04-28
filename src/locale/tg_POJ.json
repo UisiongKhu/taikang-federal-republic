@@ -118,20 +118,106 @@
             "de_jure": {
                 "title": "Hoat-lí",
                 "items": [
-                    { "name": "Kiōng-hô-kok Tāi-thóng-léng-hú", "desc": "Kok-ka Tāi-thóng-léng ê pān-kong ki-koan" },
-                    { "name": "Chóng-lí-īⁿ", "desc": "Kok-ka lōe-chèng siāng-koân ki-koan" },
-                    { "name": "Tâi-kang Gī-hōe", "desc": "Kok-ka li̍p-hoat-khoân siāng-koân ki-koan, it-īⁿ-chè" },
-                    { "name": "Kiōng-hô-kok Hoat-īⁿ", "desc": "Kok-ka si-hoat-khoân siāng-koân ki-koan" }
+                    {
+                        "name": "Kiōng-hô-kok Tāi-thóng-léng-hú",
+                        "desc": "Kok-ka Tāi-thóng-léng ê pān-kong ki-koan"
+                    },
+                    {
+                        "name": "Chóng-lí-īⁿ",
+                        "desc": "Kok-ka lōe-chèng siāng-koân ki-koan"
+                    },
+                    {
+                        "name": "Tâi-kang Gī-hōe",
+                        "desc": "Kok-ka li̍p-hoat-khoân siāng-koân ki-koan, it-īⁿ-chè"
+                    },
+                    {
+                        "name": "Kiōng-hô-kok Hoat-īⁿ",
+                        "desc": "Kok-ka si-hoat-khoân siāng-koân ki-koan"
+                    }
                 ]
             },
             "exile": {
                 "title": "Liû-bông Chèng-hú",
                 "items": [
-                    { "name": "Tāi-thóng-léng Pān-kong-sek", "desc": "Kok-ka Tāi-thóng-léng ê pān-kong ki-koan" },
-                    { "name": "Soan-thoân-pō͘", "desc": "Tī liû-bông sî khak-pó soan-thoân" },
-                    { "name": "Kiaⁿ-sòaⁿ Pō͘-chhèng-tūi", "desc": "Ūi-tio̍h D-day chò chún-pī ê chún-kun-sū cho͘-chit" }
+                    {
+                        "name": "Tāi-thóng-léng Pān-kong-sek",
+                        "desc": "Kok-ka Tāi-thóng-léng ê pān-kong ki-koan"
+                    },
+                    {
+                        "name": "Soan-thoân-pō͘",
+                        "desc": "Tī liû-bông sî khak-pó soan-thoân"
+                    },
+                    {
+                        "name": "Kiaⁿ-sòaⁿ Pō͘-chhèng-tūi",
+                        "desc": "Ūi-tio̍h D-day chò chún-pī ê chún-kun-sū cho͘-chit"
+                    }
                 ]
-            }
+            },
+            "chancellery": {
+                "title": "Chóng-lí-īⁿ",
+                "subtitle": "Chancellery / Premier's Office",
+                "desc": "Kok-ka lōe-chèng siāng-koân ki-koan, thóng-ha̍t í-hā la̍k pō͘:",
+                "departments": [
+                    {
+                        "name": "Kok-sū-pō͘",
+                        "items": [
+                            "Uê-seng-kio̍k",
+                            "Lông-hî-kio̍k"
+                        ]
+                    },
+                    {
+                        "name": "Gōa-sū-pō͘",
+                        "items": [
+                            "Tāi-sú-koán",
+                            "Léng-sū-koán"
+                        ]
+                    },
+                    {
+                        "name": "Tī-an-pō͘",
+                        "items": [
+                            "Kéng-chhat Chóng-kio̍k",
+                            "Lāi-hái-kun Tōa-pún-iâⁿ",
+                            "Chù Tâi-kang Eng-kun Liân-lo̍k-chhù"
+                        ]
+                    },
+                    {
+                        "name": "Kau-thong-pō͘",
+                        "items": [
+                            "Kong-lō͘-kio̍k",
+                            "Thih-lō͘-kio̍k"
+                        ]
+                    },
+                    {
+                        "name": "Châi-bū-pō͘",
+                        "items": [
+                            "Lāi-hái Gîn-hâng",
+                            "Koan-bū-kio̍k"
+                        ]
+                    },
+                    {
+                        "name": "Bûn-hòa-pō͘",
+                        "items": [
+                            "Kàu-io̍k-kio̍k",
+                            "Tâi-oân Ha̍k-su̍t-īⁿ"
+                        ]
+                    }
+                ]
+            },
+      "court": {
+        "title": "Kiōng-hô-kok Hoat-īⁿ",
+        "desc": "Kok-ka si-hoat-khoân siāng-koân ki-koan, siat-ū í-hā hoat-thêng:",
+        "departments": [
+          {
+            "name": "Hoat-thêng",
+            "items": [
+              "Bîn-hoat-thêng",
+              "Hêng-hoat-thêng",
+              "Kun-hoat-thêng",
+              "Hêng-chèng-hoat-thêng"
+            ]
+          }
+        ]
+      }
         }
     }
 }

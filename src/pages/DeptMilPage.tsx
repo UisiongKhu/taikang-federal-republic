@@ -1,13 +1,42 @@
+import { useState } from 'react';
 import { useTranslation } from 'react-i18next';
 import Header from '../components/Header';
 import Footer from '../components/Footer';
 import MilitaryFlag from '../assets/Flag_of_TaiKangArmedForces.png';
+
+interface ChancelleryDept {
+  name: string;
+  items: string[];
+}
+
+interface DepartmentData {
+  title: string;
+  subtitle?: string;
+  desc: string;
+  departments: ChancelleryDept[];
+}
 
 const DeptMilPage = () => {
   const { t } = useTranslation();
 
   const deJureItems = t('dept.de_jure.items', { returnObjects: true }) as Array<{ name: string; desc: string }>;
   const exileItems = t('dept.exile.items', { returnObjects: true }) as Array<{ name: string; desc: string }>;
+  const chancellery = t('dept.chancellery', { returnObjects: true }) as DepartmentData;
+  const court = t('dept.court', { returnObjects: true }) as DepartmentData;
+
+  const [isChancelleryOpen, setIsChancelleryOpen] = useState(false);
+  const [isCourtOpen, setIsCourtOpen] = useState(false);
+
+  // Check if item name corresponds to Chancellery across languages
+  const isChancellery = (name: string) => {
+    const chancelleryNames = ["總理院", "Premier's Office", "Chóng-lí-īⁿ"];
+    return chancelleryNames.includes(name);
+  };
+
+  const isCourt = (name: string) => {
+    const courtNames = ["共和國法院", "Republic Court", "Kiōng-hô-kok Hoat-īⁿ"];
+    return courtNames.includes(name);
+  };
 
   return (
     <div className="min-h-screen flex flex-col bg-sand text-navy">
@@ -28,12 +57,72 @@ const DeptMilPage = () => {
                   {t('dept.de_jure.title')}
                 </h3>
                 <div className="space-y-6">
-                  {deJureItems.map((item, idx) => (
-                    <div key={idx} className="bg-sand/20 p-4 retro-border border-l-4 border-navy">
-                      <h4 className="text-xl font-bold mb-1 iansui-regular">{item.name}</h4>
-                      <p className="text-gray-700 text-sm iansui-regular">{item.desc}</p>
-                    </div>
-                  ))}
+                  {deJureItems.map((item, idx) => {
+                    const isChan = isChancellery(item.name);
+                    const isCrt = isCourt(item.name);
+                    const isExpandable = isChan || isCrt;
+                    const isOpen = isChan ? isChancelleryOpen : isCrt ? isCourtOpen : false;
+                    const toggle = isChan ? () => setIsChancelleryOpen(!isChancelleryOpen) : isCrt ? () => setIsCourtOpen(!isCourtOpen) : () => {};
+                    const data = isChan ? chancellery : isCrt ? court : null;
+                    
+                    return (
+                      <div 
+                        key={idx} 
+                        className={`bg-sand/20 p-4 retro-border border-l-4 border-navy transition-all duration-500 relative overflow-hidden group
+                          ${isExpandable ? 'cursor-pointer hover:bg-sand/40' : ''}`}
+                        onClick={toggle}
+                      >
+                        <div className="flex justify-between items-start">
+                           <div>
+                             <h4 className="text-xl font-bold mb-1" style={{ fontFamily: "'GenRyuMin2TC-SB', serif" }}>
+                               {item.name}
+                             </h4>
+                             <p className="text-gray-700 text-sm iansui-regular">{item.desc}</p>
+                           </div>
+                           {isExpandable && (
+                             <div className={`text-brass transition-transform duration-300 ${isOpen ? 'rotate-180' : ''}`}>
+                               <svg xmlns="http://www.w3.org/2000/svg" className="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
+                               </svg>
+                             </div>
+                           )}
+                        </div>
+
+                        {/* Interactive Sub-departments (Click reveal only) */}
+                        {isExpandable && data && data.departments && (
+                          <div className={`mt-4 transition-all duration-500 overflow-hidden 
+                            ${isOpen ? 'max-h-[600px] opacity-100' : 'max-h-0 opacity-0'}`}
+                          >
+                            <div className="pt-4 border-t border-navy/10 space-y-4 overflow-y-auto max-h-[500px] pr-2 custom-scrollbar">
+                              {data.departments.map((dept, dIdx) => (
+                                <div key={dIdx} className={`${isCrt ? '' : 'bg-white/60 p-4 md:p-6 retro-border border-navy/20 w-full shadow-sm hover:border-brass/40 transition-colors'}`}>
+                                  {!isCrt && (
+                                    <h5 className="text-base font-bold text-black mb-3 tracking-[0.15em] uppercase border-b-2 border-brass/20 pb-2" style={{ fontFamily: "'GenSekiGothic2TC-R', sans-serif" }}>
+                                      {dept.name}
+                                    </h5>
+                                  )}
+                                  <ul className={`flex flex-col gap-4 ${isCrt ? 'text-black' : 'space-y-3 text-sm text-gray-700'}`}>
+                                    {dept.items.map((sub, sIdx) => (
+                                      <li key={sIdx} className={`flex items-center gap-3 ${isCrt ? 'bg-white/60 p-3 retro-border border-navy/20 shadow-sm hover:border-brass/40 transition-colors justify-center' : ''}`}>
+                                        {!isCrt && <span className="w-2 h-2 bg-navy rotate-45 flex-shrink-0"></span>}
+                                        <span className={`font-bold tracking-wide ${isCrt ? 'text-base text-black' : 'text-gray-800 iansui-regular'}`} 
+                                              style={isCrt ? { fontFamily: "'GenSekiGothic2TC-R', sans-serif" } : {}}>
+                                          {sub}
+                                        </span>
+                                      </li>
+                                    ))}
+                                  </ul>
+                                </div>
+                              ))}
+                            </div>
+                            <p className="text-xs italic text-gray-500 text-center iansui-regular mt-4 py-2 bg-sand/10 border-t border-navy/5">
+                              {data.desc}
+                            </p>
+                          </div>
+                        )}
+                      </div>
+                    );
+                  })}
                 </div>
               </div>
 
@@ -45,7 +134,7 @@ const DeptMilPage = () => {
                 <div className="space-y-6">
                   {exileItems.map((item, idx) => (
                     <div key={idx} className="bg-sand/20 p-4 retro-border border-l-4 border-navy">
-                      <h4 className="text-xl font-bold mb-1 iansui-regular">{item.name}</h4>
+                      <h4 className="text-xl font-bold mb-1" style={{ fontFamily: "'GenRyuMin2TC-SB', serif" }}>{item.name}</h4>
                       <p className="text-gray-700 text-sm iansui-regular">{item.desc}</p>
                     </div>
                   ))}

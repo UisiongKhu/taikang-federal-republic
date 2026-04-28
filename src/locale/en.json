@@ -118,18 +118,104 @@
       "de_jure": {
         "title": "De Jure",
         "items": [
-          { "name": "Office of the President of the Republic", "desc": "The administrative office of the National President" },
-          { "name": "Premier's Office", "desc": "The highest administrative organ of national internal affairs" },
-          { "name": "Tai-Kang Parliament", "desc": "The highest legislative organ of the state, unicameral" },
-          { "name": "Republic Court", "desc": "The highest judicial organ of the state" }
+          {
+            "name": "Office of the President of the Republic",
+            "desc": "The administrative office of the National President"
+          },
+          {
+            "name": "Premier's Office",
+            "desc": "The highest administrative organ of national internal affairs"
+          },
+          {
+            "name": "Tai-Kang Parliament",
+            "desc": "The highest legislative organ of the state, unicameral"
+          },
+          {
+            "name": "Republic Court",
+            "desc": "The highest judicial organ of the state"
+          }
         ]
       },
       "exile": {
         "title": "Exile Government",
         "items": [
-          { "name": "Presidential Executive Office", "desc": "The administrative office of the National President" },
-          { "name": "Ministry of Information", "desc": "Ensuring propaganda and information during exile" },
-          { "name": "Kiaⁿ-soàⁿ Infantry", "desc": "Paramilitary organization preparing for D-day" }
+          {
+            "name": "Presidential Executive Office",
+            "desc": "The administrative office of the National President"
+          },
+          {
+            "name": "Ministry of Information",
+            "desc": "Ensuring propaganda and information during exile"
+          },
+          {
+            "name": "Kiaⁿ-soàⁿ Infantry",
+            "desc": "Paramilitary organization preparing for D-day"
+          }
+        ]
+      },
+      "chancellery": {
+        "title": "Premier's Office",
+        "subtitle": "Chancellery",
+        "desc": "The highest administrative organ of national internal affairs, overseeing the following departments:",
+        "departments": [
+          {
+            "name": "State Affairs",
+            "items": [
+              "Health Bureau",
+              "Agriculture & Fisheries Bureau"
+            ]
+          },
+          {
+            "name": "Foreign Affairs",
+            "items": [
+              "Embassies",
+              "Consulates"
+            ]
+          },
+          {
+            "name": "Public Security",
+            "items": [
+              "Police Headquarters",
+              "Tai-kang Armed Forces HQ",
+              "British Liaison Office"
+            ]
+          },
+          {
+            "name": "Transport",
+            "items": [
+              "Highway Bureau",
+              "Railway Bureau"
+            ]
+          },
+          {
+            "name": "Finance",
+            "items": [
+              "Inland Sea Bank",
+              "Customs Bureau"
+            ]
+          },
+          {
+            "name": "Culture",
+            "items": [
+              "Education Bureau",
+              "Taiwan Academy"
+            ]
+          }
+        ]
+      },
+      "court": {
+        "title": "Republic Court",
+        "desc": "The highest judicial organ of the state, with the following courts:",
+        "departments": [
+          {
+            "name": "Courts",
+            "items": [
+              "Civil Court",
+              "Criminal Court",
+              "Military Court",
+              "Administrative Court"
+            ]
+          }
         ]
       }
     }

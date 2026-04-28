@@ -140,3 +140,20 @@ h6,
   color: var(--brass-gold);
   letter-spacing: 1px;
 }
+/* Custom Scrollbar for Government Archives */
+.custom-scrollbar::-webkit-scrollbar {
+  width: 6px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-track {
+  background: rgba(0, 31, 63, 0.05);
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background: var(--brass-gold);
+  border-radius: 3px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb:hover {
+  background: #a68545;
+}

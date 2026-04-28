@@ -1,12 +1,12 @@
 import React from 'react';
 import { useTranslation } from 'react-i18next';
 
-interface Article {
+export interface Article {
   date: string;
   tag: string;
   title: string;
   excerpt: string;
-  content?: string;
+  content: string;
   read_more: string;
 }
 

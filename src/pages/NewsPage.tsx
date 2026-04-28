@@ -1,22 +1,13 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import { useTranslation } from 'react-i18next';
 import { useLocation } from 'react-router-dom';
 import Header from '../components/Header';
 import Footer from '../components/Footer';
-import News from '../components/News';
+import News, { type Article } from '../components/News';
 import ArticleContent from '../components/ArticleContent';
 
-interface Article {
-  date: string;
-  tag: string;
-  title: string;
-  excerpt: string;
-  content: string;
-  read_more: string;
-}
-
 const NewsPage = () => {
-  const { t, i18n } = useTranslation();
+  const { t } = useTranslation();
   const location = useLocation();
   const [selectedTag, setSelectedTag] = useState<string | null>(null);
   const [selectedArticle, setSelectedArticle] = useState<Article | null>(null);

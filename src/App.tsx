@@ -10,6 +10,7 @@ import CulturePage from './pages/CulturePage';
 import TKCA from './pages/TKCA';
 import KSBorderGuard from './pages/KSBorderGuard';
 import Documentation from './pages/Documentation';
+import LawPage from './pages/LawPage';
 
 function App() {
   const { i18n } = useTranslation();
@@ -39,6 +40,7 @@ function App() {
         <Route path="/tkca" element={<TKCA />} />
         <Route path="/ks-border-guard" element={<KSBorderGuard />} />
         <Route path="/documentation" element={<Documentation />} />
+        <Route path="/laws" element={<LawPage />} />
       </Routes>
     </HashRouter>
   );

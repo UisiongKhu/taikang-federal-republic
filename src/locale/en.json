@@ -8,6 +8,7 @@
         "departments": "Departments & Military",
         "history": "History",
         "culture": "Culture",
+        "laws": "Laws",
         "apply": "Apply for Entry"
       }
     },
@@ -70,7 +71,8 @@
           "‣ Tai Kang Cultural Association",
           "‣ Inner Sea History",
           "‣ Kiaⁿ-soàⁿ Infantry",
-          "‣ Documentation"
+          "‣ Documentation",
+          "‣ Laws"
         ]
       },
       "branding_1": "© 1982 Tai-Kang Federal Republic.",

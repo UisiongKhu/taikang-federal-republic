@@ -251,6 +251,113 @@
           }
         ]
       }
+    },
+    "tkca": {
+      "history_title": "History",
+      "history": [
+        {
+          "year": "1870s",
+          "content": "In order to record the language used by Tai Kang people, the British taught POJ in their own government schools to record Taiwanese. However, besides the church congregations, nobody else knew POJ."
+        },
+        {
+          "year": "1910",
+          "content": "The Tai Kang Governor-General's Office established the Tai-kang School in Anping, which was the first school in Tai Kang. In order to cultivate Tai Kang people to become low-level civil servants, they mainly taught English, arithmetic, drawing, classical Chinese, etc. Tuition fees were required, and the study period was 6 years. The languages of instruction were English and Taiwanese."
+        },
+        {
+          "year": "1925.09",
+          "content": "Chhoa Poe-hoe's \"Ten Humble Opinions\" was published, and read by Tai Kang literati. In November, literati who knew POJ established the Tai Kang Cultural Association (TKCA), making the promotion of education, the development of culture, and the popularization of POJ to connect with Western culture their main advocacy."
+        },
+        {
+          "year": "1926.01",
+          "content": "TKCA established \"Khun Tiau\" (鯤潮) as their regular publication, issued monthly."
+        },
+        {
+          "year": "1930",
+          "content": "When recording the speech of Tai Kang people in documents for trials in the courts, the Governor-General's Office would record in POJ for reference."
+        },
+        {
+          "year": "1930",
+          "content": "TKCA established a Literacy School in Anping, teaching Taiwanese people to use POJ and arithmetic. Most students were children of rebels and Christians; there were both Tai Kang people and Taiwanese people. From this time on, POJ gradually began to appear on contracts such as sales agreements."
+        },
+        {
+          "year": "1935",
+          "content": "Because TKCA argued in the Church News that Japanese compulsory education was better than the British system, the Governor-General's Office announced the implementation of the Tai Kang Education Edict. The Tai-kang School was upgraded to Tai Kang Middle School, and three new schools were established: Anping School, Tho-Siann-A School, and Chhit-ko-liau School, stating that Tai Kang people must enroll and study. However, the proposal to teach POJ was still rejected by the British."
+        }
+      ],
+      "publications_title": "Publications & Works",
+      "publications": [
+        {
+          "title": "Khun Tiau (鯤潮)",
+          "language": "Taiwanese (POJ, Hanzi, Classical Chinese)",
+          "period": "1926.1 (Inaugural) - 1989.1.5 (Final)",
+          "desc": "The publication of the Tai Kang Cultural Association, starting from January of the year following the establishment of the Cultural Association in 1926, issued monthly.",
+          "events": [
+            {
+              "period": "1942.1 - 1945.8",
+              "status": "Publication suspended due to Japanese occupation."
+            },
+            {
+              "period": "1945.9",
+              "status": "Resumed publication."
+            },
+            {
+              "period": "1947.3 - 1947.7",
+              "status": "Publication suspended due to the 228 Massacre by THBK."
+            },
+            {
+              "period": "1947.8",
+              "status": "Resumed publication."
+            },
+            {
+              "period": "1989.1",
+              "status": "Publication ceased due to THBK occupying Tai Kang again."
+            }
+          ],
+          "credits": [
+            {
+              "role": "Publisher",
+              "name": "Tai Kang Cultural Association"
+            },
+            {
+              "role": "Editor-in-Chief",
+              "name": "Kang Hoan"
+            }
+          ]
+        },
+        {
+          "title": "The relationship between hyphens and characters: \"How is it called a word?\" (Ko An-iong)",
+          "language": "Taiwanese",
+          "period": "1960.1.2",
+          "desc": "",
+          "credits": [
+            {
+              "role": "Author",
+              "name": "Ko An-iong"
+            },
+            {
+              "role": "Publication",
+              "name": "Khun Tiau Vol. 360"
+            }
+          ]
+        },
+        {
+          "title": "Pe̍h-ōe-jī Orthography",
+          "language": "Taiwanese",
+          "period": "1965.6.4",
+          "desc": "Works from the 1960s were authored by the Tai Kang civilian cultural group, the Tai Kang Cultural Association. They standardized the POJ used by Tai Kang people. In the 1900s, POJ began to become popular. After the victory (of WWII), hyphens were increasingly rarely used. Later, in order to implement formal education in Taiwanese, the civilian POJ without hyphens was standardized.",
+          "credits": [
+            {
+              "role": "Publisher",
+              "name": "Tai Kang Cultural Association"
+            },
+            {
+              "role": "Editor",
+              "name": "Kang Hong"
+            }
+          ]
+        }
+      ],
+      "title": "Tai Kang Cultural Association (TCKA)"
     }
   }
 }

@@ -1,210 +1,210 @@
 {
-    "translation": {
-        "header": {
-            "title": "Tâi-kang Liân-pang Kiōng-hô-kok",
-            "subtitle": "Chū 1860 nî (V.O.)",
-            "nav": {
-                "news": "Sin-bûn · Kong-kò",
-                "departments": "Pō͘-bûn · Kun-sū",
-                "history": "Le̍k-sú",
-                "culture": "Bûn-hòa",
-                "laws": "Hoat-lu̍t",
-                "apply": "Sin-chhiáng Ji̍p-kok"
-            }
+  "translation": {
+    "header": {
+      "title": "Tâi-kang Liân-pang Kiōng-hô-kok",
+      "subtitle": "Chū 1860 nî (V.O.)",
+      "nav": {
+        "news": "Sin-bûn · Kong-kò",
+        "departments": "Pō͘-bûn · Kun-sū",
+        "history": "Le̍k-sú",
+        "culture": "Bûn-hòa",
+        "laws": "Hoat-lu̍t",
+        "apply": "Sin-chhiáng Ji̍p-kok"
+      }
+    },
+    "hero": {
+      "title_1": "To̍k-li̍p ê khun",
+      "title_2": "Chū-iû chi tiâu",
+      "subtitle": "Lán khiā tī Chhit-kó͘ ê soa-chiu, iōng Eng-sek ê L1A1 pō͘-chhèng siú-hō͘ lán ê pian-kài. In-ūi lán chai-iáⁿ, chiòng-sú hái-hong tōa, lán ê pō͘-chhèng pún-té chiū ū pâi-soa-khàm.",
+      "cta_join": "Ka-ji̍p Kiōng-hô-kok",
+      "cta_read": "Tha̍k tóng-àn"
+    },
+    "news": {
+      "title": "Lāi-hái Sin-bûn",
+      "articles": [
+        {
+          "date": "1982.04.23",
+          "tag": "公告",
+          "title": "Tùi L1A1 ê kian-chhî: Hái-hong kap soa-tîn tiong ê lêng-hûn",
+          "excerpt": "Tiong-iang kun-sū úi-oân-hōe soan-pò͘, Tâi-kang-kun bōe tòe lo̍h SA80 ê liû-hêng...",
+          "content": "Tiong-iang kun-sū úi-oân-hōe soan-pò͘, Tâi-kang-kun bōe tòe lo̍h SA80 ê liû-hêng. Lán ê pō͘-chhèng ài ū Eng-sek ê inch-pattern, iū-koh ài ū \"sand cuts\", chiah ū hoat-tō͘ tī soa-chiu oa̍h--lo̍h-khì. Che m̄-nā sī kun-pī ê būn-tê, sī lán tùi goân-tiám ê kian-chhî. L1A1 m̄-nā sī chi̍t chi- chhèng, i sī lán Tâi-kang chèng-sîn ê chiòng-teng: kán-tan, ióng-chòng, koh ū hoat-tō͘ tī chòe ok-lia̍t ê hoân-kéng seng-chûn. Só͘-ū Kiaⁿ-sòaⁿ Pō͘-chhèng-tūi ê sêng-oân, lóng ài si̍k-sāi chit chi chhèng ê múi chi̍t ê léng-kiāⁿ.",
+          "read_more": "Lio̍k-sio̍k tha̍k--lo̍h-khì..."
         },
-        "hero": {
-            "title_1": "To̍k-li̍p ê khun",
-            "title_2": "Chū-iû chi tiâu",
-            "subtitle": "Lán khiā tī Chhit-kó͘ ê soa-chiu, iōng Eng-sek ê L1A1 pō͘-chhèng siú-hō͘ lán ê pian-kài. In-ūi lán chai-iáⁿ, chiòng-sú hái-hong tōa, lán ê pō͘-chhèng pún-té chiū ū pâi-soa-khàm.",
-            "cta_join": "Ka-ji̍p Kiōng-hô-kok",
-            "cta_read": "Tha̍k tóng-àn"
+        {
+          "date": "1982.04.15",
+          "tag": "文學",
+          "title": "Beh án-chóaⁿ \"khau-sé\" chi̍t ê bô bîn-chú ê pún-tó?",
+          "excerpt": "Chhia-pêⁿ ê bûn-ha̍k-ka siá-tio̍h: \"Pún-tó ê lâng teh kiaⁿ pe̍h-sek khióng-pò͘...\"",
+          "content": "Chhia-pêⁿ ê bûn-ha̍k-ka siá-tio̍h: \"Pún-tó ê lâng teh kiaⁿ pe̍h-sek khióng-pò͘, m̄-koh in bô khòaⁿ-tio̍h lán soa-chiu ê lêng-chēng.\" Iōng 19 sè-kí ê gē-su̍t lâi kái-soeh 20 sè-kí ê ai-pi. Tī Tâi-kang Liân-pang Kiōng-hô-kok, lán bô su-iàu kiaⁿ chèng-hú, in-ūi lán pún-sin chiū-sī chèng-hú. Lán tī soa-chiu téng-biân khí lán ê bāng, sui-jiân hái-hong chin tōa, sui-jiân soa ē pùn-ji̍p ba̍k-chiu, tān-sī lán ê sim sī chū-iû ê. Pún-tó ê lâng tui-kiû kîm-chîⁿ, lán tui-kiû ê sī hit chióng ē-tàng tōa-siaⁿ hoah-chhut ê chú-khoân.",
+          "read_more": "Lio̍k-sio̍k tha̍k--lo̍h-khì..."
         },
-        "news": {
-            "title": "Lāi-hái Sin-bûn",
-            "articles": [
-                {
-                    "date": "1982.04.23",
-                    "tag": "公告",
-                    "title": "Tùi L1A1 ê kian-chhî: Hái-hong kap soa-tîn tiong ê lêng-hûn",
-                    "excerpt": "Tiong-iang kun-sū úi-oân-hōe soan-pò͘, Tâi-kang-kun bōe tòe lo̍h SA80 ê liû-hêng...",
-                    "content": "Tiong-iang kun-sū úi-oân-hōe soan-pò͘, Tâi-kang-kun bōe tòe lo̍h SA80 ê liû-hêng. Lán ê pō͘-chhèng ài ū Eng-sek ê inch-pattern, iū-koh ài ū \"sand cuts\", chiah ū hoat-tō͘ tī soa-chiu oa̍h--lo̍h-khì. Che m̄-nā sī kun-pī ê būn-tê, sī lán tùi goân-tiám ê kian-chhî. L1A1 m̄-nā sī chi̍t chi- chhèng, i sī lán Tâi-kang chèng-sîn ê chiòng-teng: kán-tan, ióng-chòng, koh ū hoat-tō͘ tī chòe ok-lia̍t ê hoân-kéng seng-chûn. Só͘-ū Kiaⁿ-sòaⁿ Pō͘-chhèng-tūi ê sêng-oân, lóng ài si̍k-sāi chit chi chhèng ê múi chi̍t ê léng-kiāⁿ.",
-                    "read_more": "Lio̍k-sio̍k tha̍k--lo̍h-khì..."
-                },
-                {
-                    "date": "1982.04.15",
-                    "tag": "文學",
-                    "title": "Beh án-chóaⁿ \"khau-sé\" chi̍t ê bô bîn-chú ê pún-tó?",
-                    "excerpt": "Chhia-pêⁿ ê bûn-ha̍k-ka siá-tio̍h: \"Pún-tó ê lâng teh kiaⁿ pe̍h-sek khióng-pò͘...\"",
-                    "content": "Chhia-pêⁿ ê bûn-ha̍k-ka siá-tio̍h: \"Pún-tó ê lâng teh kiaⁿ pe̍h-sek khióng-pò͘, m̄-koh in bô khòaⁿ-tio̍h lán soa-chiu ê lêng-chēng.\" Iōng 19 sè-kí ê gē-su̍t lâi kái-soeh 20 sè-kí ê ai-pi. Tī Tâi-kang Liân-pang Kiōng-hô-kok, lán bô su-iàu kiaⁿ chèng-hú, in-ūi lán pún-sin chiū-sī chèng-hú. Lán tī soa-chiu téng-biân khí lán ê bāng, sui-jiân hái-hong chin tōa, sui-jiân soa ē pùn-ji̍p ba̍k-chiu, tān-sī lán ê sim sī chū-iû ê. Pún-tó ê lâng tui-kiû kîm-chîⁿ, lán tui-kiû ê sī hit chióng ē-tàng tōa-siaⁿ hoah-chhut ê chú-khoân.",
-                    "read_more": "Lio̍k-sio̍k tha̍k--lo̍h-khì..."
-                },
-                {
-                    "date": "1982.04.10",
-                    "tag": "新聞",
-                    "title": "Lāi-hái Bō͘-e̍k Hia̍p-tēng Chhiam-sú",
-                    "excerpt": "Kim-ji̍t Tâi-kang Liân-pang Kiōng-hô-kok kap lîn-kūn soa-chiu kok pō͘-lo̍k ta̍t-sêng bō͘-e̍k kiōng-sek...",
-                    "content": "Kim-ji̍t Tâi-kang Liân-pang Kiōng-hô-kok kap lîn-kūn soa-chiu kok pō͘-lo̍k ta̍t-sêng bō͘-e̍k kiōng-sek. Chit hūn hia̍p-tēng chiòng khak-pó iâm, koat-hî í-ki̍p chìn-kháu bu̍t-chu tī lāi-hái khu-be̍k ê chū-iû liû-thong. Che sī ngó͘-kok gōa-kau-sú siāng ê chi̍t tōa chìn-pō͘. Sui-jiân bo̍k-chiân ngó͘-kok iû-goân chhú-tī liû-bông chōng-thài, tān-sī lán tī keng-chè siāng ê chū-chú-khoân sī put-iông hut-s視 ê. Bō͘-e̍k tāi-piáu chí-chhut, bī-lâi ê ti̍t-tiám chiòng hòng-tī kiàn-li̍p koh-khah oân-pi ê pó͘-kip-soàⁿ, í chi-chhî chiân-soàⁿ ê Kiaⁿ-sòaⁿ Pō͘-chhèng-tūi.",
-                    "read_more": "Lio̍k-sio̍k tha̍k--lo̍h-khì..."
-                },
-                {
-                    "date": "1982.04.05",
-                    "tag": "歷史",
-                    "title": "1860 nî Lāi-hái Tiâu-iok ê Hôe-kò͘",
-                    "excerpt": "Le̍k-sú-ha̍k-ka tiông-sin kái-tho̍k liáu 1860 nî chhiam-sú ê Lāi-hái Tiâu-iok...",
-                    "content": "Le̍k-sú-ha̍k-ka tiông-sin kái-tho̍k liáu 1860 nî chhiam-sú ê Lāi-hái Tiâu-iok, che sī ngó͘-kok kiàn-kok ê ki-chio̍h. Tong-nî, tī Eng-hong kap tē-hng bú-chong ê kiàn-chèng hā, khak-li̍p liáu chit phìⁿ tiong-li̍p soa-chiu ê tē-ūi. Tiâu-iok tiong bêng-khak khoat-tēng, jīm-hô gōa-pō͘ sè-le̍k put-tek kan-sia̍p lāi-hái ê lōe-chèng. Chit hūn kó͘-ló ê bûn-kiāⁿ, chì-kim iû-goân sī lán tùi-khòng gōa-pō͘ chèng-khoân ê chòe iú-le̍k hoat-lu̍t i-kù. Yan-kiù chí-chhut, tong-sî ê tì-iok-hong chhiong-hūn khó-lū tio̍h soa-chiu tē-lí ūi-tì ê te̍k-su-sèng, che iā kái-soeh liáu ūi-hô lán lêng-kò͘ bî-chhî chia-ní tn̂g-kú ê to̍k-li̍p tē-ūi.",
-                    "read_more": "Lio̍k-sio̍k tha̍k--lo̍h-khì..."
-                }
+        {
+          "date": "1982.04.10",
+          "tag": "新聞",
+          "title": "Lāi-hái Bō͘-e̍k Hia̍p-tēng Chhiam-sú",
+          "excerpt": "Kim-ji̍t Tâi-kang Liân-pang Kiōng-hô-kok kap lîn-kūn soa-chiu kok pō͘-lo̍k ta̍t-sêng bō͘-e̍k kiōng-sek...",
+          "content": "Kim-ji̍t Tâi-kang Liân-pang Kiōng-hô-kok kap lîn-kūn soa-chiu kok pō͘-lo̍k ta̍t-sêng bō͘-e̍k kiōng-sek. Chit hūn hia̍p-tēng chiòng khak-pó iâm, koat-hî í-ki̍p chìn-kháu bu̍t-chu tī lāi-hái khu-be̍k ê chū-iû liû-thong. Che sī ngó͘-kok gōa-kau-sú siāng ê chi̍t tōa chìn-pō͘. Sui-jiân bo̍k-chiân ngó͘-kok iû-goân chhú-tī liû-bông chōng-thài, tān-sī lán tī keng-chè siāng ê chū-chú-khoân sī put-iông hut-s視 ê. Bō͘-e̍k tāi-piáu chí-chhut, bī-lâi ê ti̍t-tiám chiòng hòng-tī kiàn-li̍p koh-khah oân-pi ê pó͘-kip-soàⁿ, í chi-chhî chiân-soàⁿ ê Kiaⁿ-sòaⁿ Pō͘-chhèng-tūi.",
+          "read_more": "Lio̍k-sio̍k tha̍k--lo̍h-khì..."
+        },
+        {
+          "date": "1982.04.05",
+          "tag": "歷史",
+          "title": "1860 nî Lāi-hái Tiâu-iok ê Hôe-kò͘",
+          "excerpt": "Le̍k-sú-ha̍k-ka tiông-sin kái-tho̍k liáu 1860 nî chhiam-sú ê Lāi-hái Tiâu-iok...",
+          "content": "Le̍k-sú-ha̍k-ka tiông-sin kái-tho̍k liáu 1860 nî chhiam-sú ê Lāi-hái Tiâu-iok, che sī ngó͘-kok kiàn-kok ê ki-chio̍h. Tong-nî, tī Eng-hong kap tē-hng bú-chong ê kiàn-chèng hā, khak-li̍p liáu chit phìⁿ tiong-li̍p soa-chiu ê tē-ūi. Tiâu-iok tiong bêng-khak khoat-tēng, jīm-hô gōa-pō͘ sè-le̍k put-tek kan-sia̍p lāi-hái ê lōe-chèng. Chit hūn kó͘-ló ê bûn-kiāⁿ, chì-kim iû-goân sī lán tùi-khòng gōa-pō͘ chèng-khoân ê chòe iú-le̍k hoat-lu̍t i-kù. Yan-kiù chí-chhut, tong-sî ê tì-iok-hong chhiong-hūn khó-lū tio̍h soa-chiu tē-lí ūi-tì ê te̍k-su-sèng, che iā kái-soeh liáu ūi-hô lán lêng-kò͘ bî-chhî chia-ní tn̂g-kú ê to̍k-li̍p tē-ūi.",
+          "read_more": "Lio̍k-sio̍k tha̍k--lo̍h-khì..."
+        }
+      ]
+    },
+    "sidebar": {
+      "property": {
+        "title": "Kiōng-hô-kok châi-sán",
+        "description": "\"Thê-chhéⁿ só͘-ū kong-bîn pó-ióng in ê chong-pī. Soa sī te̍k-jîn, m̄-koh iā-sī lán ê tún-pâi.\"",
+        "btn_login": "Kong-bîn teng-ji̍p",
+        "btn_asylum": "Sin-chhiáng pì-hō͘"
+      },
+      "links": {
+        "title": "Liân-kiat",
+        "items": [
+          "‣ Kok-ka Kài-su̍t",
+          "‣ Chèng-hú Cho͘-chit",
+          "‣ Tâi-kang Bûn-hòa-hōe",
+          "‣ Lāi-hái Le̍k-sú",
+          "‣ Kiaⁿ-sòaⁿ Pō͘-chhèng-tūi",
+          "‣ Su-lūi"
+        ]
+      },
+      "branding_1": "© 1982 Tâi-kang Liân-pang Kiōng-hô-kok.",
+      "branding_2": "Tī tiong-li̍p soa-chiu hia̍p-gī ē koán-ha̍t.",
+      "branding_3": "L1A1 pó-ióng chhiú-chheh ē-tàng sin-chhiáng the̍h-tio̍h."
+    },
+    "footer": {
+      "security": "An-choân chōng-thài: Koân",
+      "wind": "Bo̍k-chiân hong-hiòng: Sai-hong 15 chiat",
+      "coordinate": "Chō-piau: 23.111, 120.083"
+    },
+    "overview": {
+      "emblem_desc": "\"Eng-ông ông-koan kòa tī thiⁿ, Sai kap lā-poe hō͘ nn̄g-pêng, Siang-siù kha-ta̍h âng si-tòa, Tún-pâi ōe lán Tâi-kang kéng.\"",
+      "flag_desc": "\"Tò-pêng hái, chiàⁿ-pêng tē, kim-sek hái-sòaⁿ tiong-ng chē, Tōa Tâi-oân Káng tio̍h-sī chheⁿ.\"",
+      "sections": {
+        "name": "Kok-miâ",
+        "flag": "Kok-kî",
+        "emblem": "Kok-hui",
+        "motto": "Kok-ka kek-giân",
+        "languages": "Hoat-tēng Gí-giân",
+        "population": "Jîn-kháu",
+        "military": "Kun-sū",
+        "economy": "Keng-chè"
+      },
+      "lang_list": {
+        "taiwanese": "Tâi-oân-ōe",
+        "english": "Eng-kok-ōe"
+      },
+      "military": {
+        "flag_label": "Tâi-kang Kun-kî",
+        "name": "Kiaⁿ-sòaⁿ Pō͘-chhèng-tūi",
+        "type_label": "Chióng-lūi",
+        "type_value": "Chún-kun-sū cho͘-chit",
+        "func_label": "Kong-lêng",
+        "func_value": "Te̍k-hō͘ chok-chiàn",
+        "form_label": "Pian-chè",
+        "form_value": "Liân",
+        "base_label": "Chù-tē",
+        "base_value": "Bāng-á-liâu-sòaⁿ (Kiaⁿ-sòaⁿ)",
+        "motto": "Tiong cheng chhian peng siú Lāi Hái, Gī ióng bān bîn hō͘ Tâi Kang",
+        "disclaimer": "* Bo̍k-chiân Lāi-hái-kok hō͘ Tiong-hôa Bîn-kok chiàm-niá tī liû-bông chōng-thài, bô chèng-sek ê kun-tūi."
+      }
+    },
+    "dept": {
+      "title": "Pō͘-bûn",
+      "de_jure": {
+        "title": "Hoat-lí",
+        "items": [
+          {
+            "name": "Kiōng-hô-kok Tāi-thóng-léng-hú",
+            "desc": "Kok-ka Tāi-thóng-léng ê pān-kong ki-koan"
+          },
+          {
+            "name": "Chóng-lí-īⁿ",
+            "desc": "Kok-ka lōe-chèng siāng-koân ki-koan"
+          },
+          {
+            "name": "Tâi-kang Gī-hōe",
+            "desc": "Kok-ka li̍p-hoat-khoân siāng-koân ki-koan, it-īⁿ-chè"
+          },
+          {
+            "name": "Kiōng-hô-kok Hoat-īⁿ",
+            "desc": "Kok-ka si-hoat-khoân siāng-koân ki-koan"
+          }
+        ]
+      },
+      "exile": {
+        "title": "Liû-bông Chèng-hú",
+        "items": [
+          {
+            "name": "Tāi-thóng-léng Pān-kong-sek",
+            "desc": "Kok-ka Tāi-thóng-léng ê pān-kong ki-koan"
+          },
+          {
+            "name": "Soan-thoân-pō͘",
+            "desc": "Tī liû-bông sî khak-pó soan-thoân"
+          },
+          {
+            "name": "Kiaⁿ-sòaⁿ Pō͘-chhèng-tūi",
+            "desc": "Ūi-tio̍h D-day chò chún-pī ê chún-kun-sū cho͘-chit"
+          }
+        ]
+      },
+      "chancellery": {
+        "title": "Chóng-lí-īⁿ",
+        "subtitle": "Chancellery / Premier's Office",
+        "desc": "Kok-ka lōe-chèng siāng-koân ki-koan, thóng-ha̍t í-hā la̍k pō͘:",
+        "departments": [
+          {
+            "name": "Kok-sū-pō͘",
+            "items": [
+              "Uê-seng-kio̍k",
+              "Lông-hî-kio̍k"
             ]
-        },
-        "sidebar": {
-            "property": {
-                "title": "Kiōng-hô-kok châi-sán",
-                "description": "\"Thê-chhéⁿ só͘-ū kong-bîn pó-ióng in ê chong-pī. Soa sī te̍k-jîn, m̄-koh iā-sī lán ê tún-pâi.\"",
-                "btn_login": "Kong-bîn teng-ji̍p",
-                "btn_asylum": "Sin-chhiáng pì-hō͘"
-            },
-            "links": {
-                "title": "Liân-kiat",
-                "items": [
-                    "‣ Kok-ka Kài-su̍t",
-                    "‣ Chèng-hú Cho͘-chit",
-                    "‣ Tâi-kang Bûn-hòa-hōe",
-                    "‣ Lāi-hái Le̍k-sú",
-                    "‣ Kiaⁿ-sòaⁿ Pō͘-chhèng-tūi",
-                    "‣ Su-lūi"
-                ]
-            },
-            "branding_1": "© 1982 Tâi-kang Liân-pang Kiōng-hô-kok.",
-            "branding_2": "Tī tiong-li̍p soa-chiu hia̍p-gī ē koán-ha̍t.",
-            "branding_3": "L1A1 pó-ióng chhiú-chheh ē-tàng sin-chhiáng the̍h-tio̍h."
-        },
-        "footer": {
-            "security": "An-choân chōng-thài: Koân",
-            "wind": "Bo̍k-chiân hong-hiòng: Sai-hong 15 chiat",
-            "coordinate": "Chō-piau: 23.111, 120.083"
-        },
-        "overview": {
-            "emblem_desc": "\"Eng-ông ông-koan kòa tī thiⁿ, Sai kap lā-poe hō͘ nn̄g-pêng, Siang-siù kha-ta̍h âng si-tòa, Tún-pâi ōe lán Tâi-kang kéng.\"",
-            "flag_desc": "\"Tò-pêng hái, chiàⁿ-pêng tē, kim-sek hái-sòaⁿ tiong-ng chē, Tōa Tâi-oân Káng tio̍h-sī chheⁿ.\"",
-            "sections": {
-                "name": "Kok-miâ",
-                "flag": "Kok-kî",
-                "emblem": "Kok-hui",
-                "motto": "Kok-ka kek-giân",
-                "languages": "Hoat-tēng Gí-giân",
-                "population": "Jîn-kháu",
-                "military": "Kun-sū",
-                "economy": "Keng-chè"
-            },
-            "lang_list": {
-                "taiwanese": "Tâi-oân-ōe",
-                "english": "Eng-kok-ōe"
-            },
-            "military": {
-                "flag_label": "Tâi-kang Kun-kî",
-                "name": "Kiaⁿ-sòaⁿ Pō͘-chhèng-tūi",
-                "type_label": "Chióng-lūi",
-                "type_value": "Chún-kun-sū cho͘-chit",
-                "func_label": "Kong-lêng",
-                "func_value": "Te̍k-hō͘ chok-chiàn",
-                "form_label": "Pian-chè",
-                "form_value": "Liân",
-                "base_label": "Chù-tē",
-                "base_value": "Bāng-á-liâu-sòaⁿ (Kiaⁿ-sòaⁿ)",
-                "motto": "Tiong cheng chhian peng siú Lāi Hái, Gī ióng bān bîn hō͘ Tâi Kang",
-                "disclaimer": "* Bo̍k-chiân Lāi-hái-kok hō͘ Tiong-hôa Bîn-kok chiàm-niá tī liû-bông chōng-thài, bô chèng-sek ê kun-tūi."
-            }
-        },
-        "dept": {
-            "title": "Pō͘-bûn",
-            "de_jure": {
-                "title": "Hoat-lí",
-                "items": [
-                    {
-                        "name": "Kiōng-hô-kok Tāi-thóng-léng-hú",
-                        "desc": "Kok-ka Tāi-thóng-léng ê pān-kong ki-koan"
-                    },
-                    {
-                        "name": "Chóng-lí-īⁿ",
-                        "desc": "Kok-ka lōe-chèng siāng-koân ki-koan"
-                    },
-                    {
-                        "name": "Tâi-kang Gī-hōe",
-                        "desc": "Kok-ka li̍p-hoat-khoân siāng-koân ki-koan, it-īⁿ-chè"
-                    },
-                    {
-                        "name": "Kiōng-hô-kok Hoat-īⁿ",
-                        "desc": "Kok-ka si-hoat-khoân siāng-koân ki-koan"
-                    }
-                ]
-            },
-            "exile": {
-                "title": "Liû-bông Chèng-hú",
-                "items": [
-                    {
-                        "name": "Tāi-thóng-léng Pān-kong-sek",
-                        "desc": "Kok-ka Tāi-thóng-léng ê pān-kong ki-koan"
-                    },
-                    {
-                        "name": "Soan-thoân-pō͘",
-                        "desc": "Tī liû-bông sî khak-pó soan-thoân"
-                    },
-                    {
-                        "name": "Kiaⁿ-sòaⁿ Pō͘-chhèng-tūi",
-                        "desc": "Ūi-tio̍h D-day chò chún-pī ê chún-kun-sū cho͘-chit"
-                    }
-                ]
-            },
-            "chancellery": {
-                "title": "Chóng-lí-īⁿ",
-                "subtitle": "Chancellery / Premier's Office",
-                "desc": "Kok-ka lōe-chèng siāng-koân ki-koan, thóng-ha̍t í-hā la̍k pō͘:",
-                "departments": [
-                    {
-                        "name": "Kok-sū-pō͘",
-                        "items": [
-                            "Uê-seng-kio̍k",
-                            "Lông-hî-kio̍k"
-                        ]
-                    },
-                    {
-                        "name": "Gōa-sū-pō͘",
-                        "items": [
-                            "Tāi-sú-koán",
-                            "Léng-sū-koán"
-                        ]
-                    },
-                    {
-                        "name": "Tī-an-pō͘",
-                        "items": [
-                            "Kéng-chhat Chóng-kio̍k",
-                            "Lāi-hái-kun Tōa-pún-iâⁿ",
-                            "Chù Tâi-kang Eng-kun Liân-lo̍k-chhù"
-                        ]
-                    },
-                    {
-                        "name": "Kau-thong-pō͘",
-                        "items": [
-                            "Kong-lō͘-kio̍k",
-                            "Thih-lō͘-kio̍k"
-                        ]
-                    },
-                    {
-                        "name": "Châi-bū-pō͘",
-                        "items": [
-                            "Lāi-hái Gîn-hâng",
-                            "Koan-bū-kio̍k"
-                        ]
-                    },
-                    {
-                        "name": "Bûn-hòa-pō͘",
-                        "items": [
-                            "Kàu-io̍k-kio̍k",
-                            "Tâi-oân Ha̍k-su̍t-īⁿ"
-                        ]
-                    }
-                ]
-            },
+          },
+          {
+            "name": "Gōa-sū-pō͘",
+            "items": [
+              "Tāi-sú-koán",
+              "Léng-sū-koán"
+            ]
+          },
+          {
+            "name": "Tī-an-pō͘",
+            "items": [
+              "Kéng-chhat Chóng-kio̍k",
+              "Lāi-hái-kun Tōa-pún-iâⁿ",
+              "Chù Tâi-kang Eng-kun Liân-lo̍k-chhù"
+            ]
+          },
+          {
+            "name": "Kau-thong-pō͘",
+            "items": [
+              "Kong-lō͘-kio̍k",
+              "Thih-lō͘-kio̍k"
+            ]
+          },
+          {
+            "name": "Châi-bū-pō͘",
+            "items": [
+              "Lāi-hái Gîn-hâng",
+              "Koan-bū-kio̍k"
+            ]
+          },
+          {
+            "name": "Bûn-hòa-pō͘",
+            "items": [
+              "Kàu-io̍k-kio̍k",
+              "Tâi-oân Ha̍k-su̍t-īⁿ"
+            ]
+          }
+        ]
+      },
       "court": {
         "title": "Kiōng-hô-kok Hoat-īⁿ",
         "desc": "Kok-ka si-hoat-khoân siāng-koân ki-koan, siat-ū í-hā hoat-thêng:",
@@ -250,6 +250,113 @@
           }
         ]
       }
+    },
+    "tkca": {
+      "history_title": "Le̍k-sú",
+      "history": [
+        {
+          "year": "1870 nî tāi",
+          "content": "Ūi tio̍h beh kì lo̍k Tâi Kang lâng teh ēng ê gí giân, Tāi Eng kok tī ka kī ê koaⁿ o̍h kà POJ thang kì Tâi Oân ōe, chóng ·sī, tû khí kàu hōe ê hōe chiòng, bô pa̍t lâng chai POJ."
+        },
+        {
+          "year": "1910 nî",
+          "content": "Tâi Kang Chóng tok hú tī An Pêng siat Tâi-kang O̍h-tn̂g, sī Tâi Kang thâu chi̍t keng o̍h tn̂g. Ūi tio̍h pôe ióng Tâi Kang lâng chò kē kip ê kong bū jîn oân, chú iàu kà Eng gí, Soàn su̍t, Ōe tô͘, Hàn bûn t.t. Ài kau ha̍k hùi, tha̍k 6 tang. Kà chheh ê gí giân sī ēng Eng gí kap Tâi Oân ōe."
+        },
+        {
+          "year": "1925 nî 9 goe̍h",
+          "content": "Chhòa Pôe-hóe ê Cha̍p-hāng Koán-kiàn chhut pán, hō͘ Tâi Kang ê bûn jîn tha̍k tio̍h. Bat POJ ê bûn jîn 11 goe̍h siat Tâi Kang Bûn Hòa Hōe, kā chhui hêng kàu io̍k, hoat iông bûn hòa, phó͘ kip POJ thang chiap Se Iûⁿ Bûn hòa chiâⁿ chò in ê chú tioⁿ."
+        },
+        {
+          "year": "1926 nî 1 goe̍h",
+          "content": "Bûn Hòa Hōe siat Khun Tiâu 鯤潮 chò in ê tēng kî khan bu̍t, 1 goe̍h ji̍t 1 hôe."
+        },
+        {
+          "year": "1930 nî",
+          "content": "Chóng tok hú tī hoat īⁿ lāi té teh sím lí ê su lūi teh kì Tâi Kang lâng kóng ōe ê sî ē kì POJ chò chham khó."
+        },
+        {
+          "year": "1930 nî",
+          "content": "Bûn Hòa Hōe tī An Pêng siat chi̍t keng Bat Jī O̍h Tn̂g, kà Tâi Oân lâng ēng POJ kiam kà sǹg siàu. Ha̍k seng to sò͘ sī hoán á chham sìn Kàu ê gín á, Tâi Kang lâng kap Tâi Oân lâng lóng ū. POJ chū chit sî khai sí tú té á chhut hiān tī bé bē t.t. khè iok téng bīn."
+        },
+        {
+          "year": "1935 nî",
+          "content": "in ūi Tâi Kang Bûn Hòa Hōe tī Kàu Hōe pò gī lūn Ji̍t Pún lâng ê gī bū kàu io̍k khah iâⁿ Tāi Eng, Chóng tok hú soan pò͘ beh si̍t si Tâi Kang Kàu io̍k lēng. Kā Tâi-kang O̍h-tn̂g seng chò Tâi Kang Tiong O̍h, sia̍t 3 keng sin o̍h tn̂g, An Pêng O̍h Tn̂g, Thô͘ Siâⁿ Á O̍h Tn̂g, Chhit Kó͘ Liâu O̍h tn̂g, kóng Tâi Kang lâng ài ji̍p o̍h tha̍k chheh. Chóng ·sī, kà POJ ê chú tioⁿ iáu sī hō͘ Tāi Eng kī choa̍t."
+        }
+      ],
+      "publications_title": "Chhut pán kap Chok phín",
+      "publications": [
+        {
+          "title": "Khun Tiâu 鯤潮",
+          "language": "Tâi gí (POJ, Hàn jī, Hàn bûn)",
+          "period": "chhòng khan hō 1926.1 - 1989.1.5 hùi khan hō",
+          "desc": "Tâi Kang Bûn Hòa hōe ê khan bu̍t, chū 1926 nî Bûn Hòa hōe chhòng siat keh tang ê chiaⁿ goe̍h khai sí pān, 1 goe̍h ji̍t 1 kî.",
+          "events": [
+            {
+              "period": "1942.1 - 1945.8",
+              "status": "in ūi Ji̍t chiàm thêng khan."
+            },
+            {
+              "period": "1945.9",
+              "status": "ho̍k khan"
+            },
+            {
+              "period": "1947.3 - 1947.7",
+              "status": "in ūi THBK ê 228 tô͘ sat thêng khan"
+            },
+            {
+              "period": "1947.8",
+              "status": "ho̍k khan"
+            },
+            {
+              "period": "1989.1",
+              "status": "in ūi THBK koh chiàm Tâi Kang chŏaⁿ hùi khan"
+            }
+          ],
+          "credits": [
+            {
+              "role": "Khan hêng",
+              "name": "Tâi Kang Bûn Hòa Hōe"
+            },
+            {
+              "role": "Chóng phian chi̍p",
+              "name": "Kang Hoân"
+            }
+          ]
+        },
+        {
+          "title": "Liân oe̍h hâm jī ê koan hē: \"Án chóaⁿ hō chò chi̍t jī?\" (Ko An-ióng)",
+          "language": "Tâi gí",
+          "period": "1960.1.2",
+          "desc": "",
+          "credits": [
+            {
+              "role": "Chok chiá",
+              "name": "Ko An-ióng"
+            },
+            {
+              "role": "Khan bu̍t",
+              "name": "Khun Tiâu 360 koàn"
+            }
+          ]
+        },
+        {
+          "title": "Pe̍h Ōe Jī Chèng su hoat",
+          "language": "Tâi gí",
+          "period": "1965.6.4",
+          "desc": "1960s ê chok phín, sī Tâi Kang bîn kan bûn hòa thoân thé Tâi Kang Bûn Hòa Hōe ê tù chok. Kā Tâi Kang lâng ēng ê POJ kui hoān hòa. Tī 1900 nî tāi POJ khai sí sî kiâⁿ, kàu sèng lī (WWII ê) liáu āu liân oe̍h ná lâi ná hán tit teh ēng. Āu lâi ūi tio̍h beh si̍t hêng Tâi Oân ōe ê chèng sek kàu io̍k, kā bîn kan ê bô liân oe̍h POJ kui hoān hòa.",
+          "credits": [
+            {
+              "role": "Khan hêng",
+              "name": "Tâi Kang Bûn Hòa Hōe"
+            },
+            {
+              "role": "Phian chi̍p",
+              "name": "Kang Hóng"
+            }
+          ]
+        }
+      ],
+      "title": "TÂI KANG BÛN HÒA HŌE (TCKA)"
     }
   }
 }

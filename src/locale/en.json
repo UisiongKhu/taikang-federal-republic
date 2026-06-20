@@ -1,7 +1,7 @@
 {
   "translation": {
     "header": {
-      "title": "Tai-Kang Federal Republic",
+      "title": "Tâi-kang Federal Republic",
       "subtitle": "Since 1860 (V.O.)",
       "nav": {
         "news": "News & Announcements",
@@ -15,7 +15,7 @@
     "hero": {
       "title_1": "Independence of the Sandbar",
       "title_2": "Freedom of the Tides",
-      "subtitle": "We stand on the sandbars of Qigu, using British L1A1 rifles to guard our borders. For we know, even as the sea winds howl, our rifles have sand cuts.",
+      "subtitle": "We stand on the sandbars of Chhit-kó͘, using British L1A1 rifles to guard our borders. For we know, even as the sea winds howl, our rifles have sand cuts.",
       "cta_join": "Join the Republic",
       "cta_read": "Read Archives"
     },
@@ -26,8 +26,8 @@
           "date": "1982.04.23",
           "tag": "公告",
           "title": "Insisting on the L1A1: The Soul in the Sea Wind and Sand Dust",
-          "excerpt": "The Central Military Commission announces that the Tai-Kang Forces will not follow the SA80 trend...",
-          "content": "The Central Military Commission announces that the Tai-Kang Forces will not follow the SA80 trend. Our rifles must be British inch-pattern, and must have \"sand cuts\" to survive on the sandbar. This is not just a matter of armaments, but our insistence on our origins. The L1A1 is not just a rifle; it is the symbol of our Tai-Kang spirit: simple, robust, and capable of surviving in the harshest environments. All members of the Kiaⁿ-soàⁿ Infantry must be familiar with every part of this rifle.",
+          "excerpt": "The Central Military Commission announces that the Tâi-kang Forces will not follow the SA80 trend...",
+          "content": "The Central Military Commission announces that the Tâi-kang Forces will not follow the SA80 trend. Our rifles must be British inch-pattern, and must have \"sand cuts\" to survive on the sandbar. This is not just a matter of armaments, but our insistence on our origins. The L1A1 is not just a rifle; it is the symbol of our Tâi-kang spirit: simple, robust, and capable of surviving in the harshest environments. All members of the Kiaⁿ-soàⁿ Infantry must be familiar with every part of this rifle.",
           "read_more": "Continue reading..."
         },
         {
@@ -35,15 +35,15 @@
           "tag": "文學",
           "title": "How to \"mock\" an undemocratic main island?",
           "excerpt": "The writers of the plains write: \"The people on the main island are living in fear of the white terror...\"",
-          "content": "The writers of the plains write: \"The people on the main island are living in fear of the white terror, yet they cannot see the tranquillity of our sandbar.\" Using 19th-century art to explain the sorrow of the 20th century. In the Tai-Kang Federal Republic, we do not need to fear the government, because we are the government. We build our dreams on the sandbars; though the sea wind is strong and sand blows into our eyes, our hearts are free. The people on the main island pursue money; we pursue the sovereignty to speak out loud.",
+          "content": "The writers of the plains write: \"The people on the main island are living in fear of the white terror, yet they cannot see the tranquillity of our sandbar.\" Using 19th-century art to explain the sorrow of the 20th century. In the Tâi-kang Federal Republic, we do not need to fear the government, because we are the government. We build our dreams on the sandbars; though the sea wind is strong and sand blows into our eyes, our hearts are free. The people on the main island pursue money; we pursue the sovereignty to speak out loud.",
           "read_more": "Continue reading..."
         },
         {
           "date": "1982.04.10",
           "tag": "新聞",
           "title": "Inner Sea Trade Agreement Signed",
-          "excerpt": "Today, the Tai-Kang Federal Republic and neighboring sandbar tribes reached a trade consensus...",
-          "content": "Today, the Tai-Kang Federal Republic and neighbouring sandbar tribes reached a trade consensus. This agreement will ensure the free flow of salt, dried fish, and imported materials within the Inner Sea region. This is a major step forward in our country's diplomatic history. Although our country is still in exile, our economic autonomy cannot be ignored. The trade representative noted that future focus will be on building better supply lines to support the frontline Kiaⁿ-soàⁿ Infantry.",
+          "excerpt": "Today, the Tâi-kang Federal Republic and neighboring sandbar tribes reached a trade consensus...",
+          "content": "Today, the Tâi-kang Federal Republic and neighbouring sandbar tribes reached a trade consensus. This agreement will ensure the free flow of salt, dried fish, and imported materials within the Inner Sea region. This is a major step forward in our country's diplomatic history. Although our country is still in exile, our economic autonomy cannot be ignored. The trade representative noted that future focus will be on building better supply lines to support the frontline Kiaⁿ-soàⁿ Infantry.",
           "read_more": "Continue reading..."
         },
         {
@@ -68,13 +68,13 @@
         "items": [
           "‣ National Overview",
           "‣ Government Organisation",
-          "‣ Tai Kang Cultural Association",
+          "‣ Tâi-kang Cultural Association",
           "‣ Inner Sea History",
           "‣ Kiaⁿ-soàⁿ Infantry",
           "‣ Documentation"
         ]
       },
-      "branding_1": "© 1982 Tai-Kang Federal Republic.",
+      "branding_1": "© 1982 Tâi-kang Federal Republic.",
       "branding_2": "Administered under the Neutral Sandbar Protocol.",
       "branding_3": "L1A1 Service Manual Available upon request."
     },
@@ -84,7 +84,7 @@
       "coordinate": "Coordinate: 23.111, 120.083"
     },
     "overview": {
-      "emblem_desc": "\"The British Crown hangs in the sky, the Lion and Pelican guard both sides, twin beasts step on the red ribbon, and the shield depicts our Tai-Kang scenery.\"",
+      "emblem_desc": "\"The British Crown hangs in the sky, the Lion and Pelican guard both sides, twin beasts step on the red ribbon, and the shield depicts our Tâi-kang scenery.\"",
       "flag_desc": "\"Sea on the left, land on the right, in the middle we got the golden coastline, and An-pêng Port is the only star in our eyes.\"",
       "sections": {
         "name": "Official Name",
@@ -101,7 +101,7 @@
         "english": "English"
       },
       "military": {
-        "flag_label": "Tai Kang Armed Forces Flag",
+        "flag_label": "Tâi-kang Armed Forces Flag",
         "name": "Kiaⁿ-sòaⁿ Border Guard",
         "type_label": "Type",
         "type_value": "Paramilitary",
@@ -110,10 +110,10 @@
         "form_label": "Size",
         "form_value": "Company",
         "base_label": "Base",
-        "base_value": "Bang-a-liau Sandbar (Kiaⁿ-sòaⁿ)",
+        "base_value": "Bāng-á-liâu Sandbar (Kiaⁿ-sòaⁿ)",
         "motto_poj": "Tiong cheng chhian peng siú Lāi Hái, Gī ióng bān bîn hō͘ Tâi Kang",
-        "motto_en": "Loyal soldiers guard the Inner Sea, Valiant people protect Tai-kang",
-        "disclaimer": "* Currently, Tai-kang is occupied by the ROC and is in a state of exile, with no formal military."
+        "motto_en": "Loyal soldiers guard the Inner Sea, Valiant people protect Tâi-kang",
+        "disclaimer": "* Currently, Tâi-kang is occupied by the ROC and is in a state of exile, with no formal military."
       }
     },
     "dept": {
@@ -130,7 +130,7 @@
             "desc": "The highest administrative organ of national internal affairs"
           },
           {
-            "name": "Tai-Kang Parliament",
+            "name": "Tâi-kang Parliament",
             "desc": "The highest legislative organ of the state, unicameral"
           },
           {
@@ -179,7 +179,7 @@
             "name": "Public Security",
             "items": [
               "Police Headquarters",
-              "Tai-kang Armed Forces HQ",
+              "Tâi-kang Armed Forces HQ",
               "British Liaison Office"
             ]
           },
@@ -201,7 +201,7 @@
             "name": "Culture",
             "items": [
               "Education Bureau",
-              "Taiwan Academy"
+              "Tâi-oân Academy"
             ]
           }
         ]
@@ -224,30 +224,30 @@
     },
     "laws": {
       "declaration": {
-        "title": "Exile Declaration of the Tai-Kang Federal Republic",
+        "title": "Exile Declaration of the Tâi-kang Federal Republic",
         "preamble_header": "[Preamble]",
-        "preamble_content": "Due to the evolution of the current situation in Taiwan and the trend toward democratisation of the Republic of China regime. We, the Tai-Kang descendants, have endured for more than ten years, and it is with great difficulty that we finally have basic freedom of speech and political freedom. Now the time has come, in order to continue the national legitimacy and safeguard the sovereignty of the Inner Sea, we officially announce the establishment of a Government-in-Exile and demand national restoration from the government currently in power over the Republic of China.",
+        "preamble_content": "Due to the evolution of the current situation in Tâi-oân and the trend toward democratisation of the Republic of China regime. We, the Tâi-kang descendants, have endured for more than ten years, and it is with great difficulty that we finally have basic freedom of speech and political freedom. Now the time has come, in order to continue the national legitimacy and safeguard the sovereignty of the Inner Sea, we officially announce the establishment of a Government-in-Exile and demand national restoration from the government currently in power over the Republic of China.",
         "articles_header": "[Declaration Articles]",
         "articles": [
           {
             "title": "Article 1: Change of Government Status",
-            "content": "The 'Tai-Kang Federal Republic Exile Government' established today is declared the legal successor to the former 'Tai-Kang Federal Republic Government.' Since Tai-Kang is currently occupied by the Republic of China, this Exile Government is specifically established to temporarily maintain the Tai-Kang legal succession."
+            "content": "The 'Tâi-kang Federal Republic Exile Government' established today is declared the legal successor to the former 'Tâi-kang Federal Republic Government.' Since Tâi-kang is currently occupied by the Republic of China, this Exile Government is specifically established to temporarily maintain the Tâi-kang legal succession."
           },
           {
             "title": "Article 2: Reorganisation of Military",
-            "content": "For the cause of national restoration, the 'Kiaⁿ-soàⁿ Border Guard' is formed, to be reorganised as the national defence force after restoration.\nFormer members of the Tai-Kang Federal Republic military, or Tai-Kang descendants who previously served in the Republic of China military as NCOs or above, are eligible to apply."
+            "content": "For the cause of national restoration, the 'Kiaⁿ-soàⁿ Border Guard' is formed, to be reorganised as the national defence force after restoration.\nFormer members of the Tâi-kang Federal Republic military, or Tâi-kang descendants who previously served in the Republic of China military as NCOs or above, are eligible to apply."
           },
           {
             "title": "Article 3: Diplomacy and Petition",
-            "content": "We invite all Tai-Kang descendants and all people who support freedom to officially submit a petition to President Chen Shui-bian of the Republic of China. We demand respect for historical treaties, recognition of the sovereignty of the Inner Sea, and assistance to the Tai-Kang Federal Republic in restoring its legal status."
+            "content": "We invite all Tâi-kang descendants and all people who support freedom to officially submit a petition to President Tân Chúi-piⁿ of the Republic of China. We demand respect for historical treaties, recognition of the sovereignty of the Inner Sea, and assistance to the Tâi-kang Federal Republic in restoring its legal status."
           },
           {
             "title": "Article 4: Organisational Measures",
-            "content": "This article defines the administrative bodies at the founding of the Government-in-Exile. There are three administrative bodies listed below:\n1. Office of the President: Responsible for organisational management and personnel appointments; the highest organ of the Government-in-Exile, headed by the President.\n2. Ministry of Publicity: Responsible for publicity and diplomacy; the external window of the Government-in-Exile, headed by the Minister of Publicity.\n3. Kiaⁿ-soàⁿ Border Guard: A paramilitary organisation responsible for data collection and self-training of former Tai-Kang military personnel, headed by the Commander of the Border Guard."
+            "content": "This article defines the administrative bodies at the founding of the Government-in-Exile. There are three administrative bodies listed below:\n1. Office of the President: Responsible for organisational management and personnel appointments; the highest organ of the Government-in-Exile, headed by the President.\n2. Ministry of Publicity: Responsible for publicity and diplomacy; the external window of the Government-in-Exile, headed by the Minister of Publicity.\n3. Kiaⁿ-soàⁿ Border Guard: A paramilitary organisation responsible for data collection and self-training of former Tâi-kang military personnel, headed by the Commander of the Border Guard."
           },
           {
             "title": "Article 5: Financial and Donation Measures",
-            "content": "Financial information regarding the operation of the Government-in-Exile shall be open for inspection by the Tai-Kang public. Those wishing to make a donation should contact us by mail."
+            "content": "Financial information regarding the operation of the Government-in-Exile shall be open for inspection by the Tâi-kang public. Those wishing to make a donation should contact us by mail."
           }
         ]
       }
@@ -257,40 +257,40 @@
       "history": [
         {
           "year": "1870s",
-          "content": "In order to record the language used by Tai Kang people, the British taught POJ in their own government schools to record Taiwanese. However, besides the church congregations, nobody else knew POJ."
+          "content": "In order to record the language used by Tâi-kang people, the British taught POJ in their own government schools to record Taiwanese. However, besides the church congregations, nobody else knew POJ."
         },
         {
           "year": "1910",
-          "content": "The Tai Kang Governor-General's Office established the Tai-kang School in Anping, which was the first school in Tai Kang. In order to cultivate Tai Kang people to become low-level civil servants, they mainly taught English, arithmetic, drawing, classical Chinese, etc. Tuition fees were required, and the study period was 6 years. The languages of instruction were English and Taiwanese."
+          "content": "The Tâi-kang Governor-General's Office established the Tâi-kang School in An-pêng, which was the first school in Tâi-kang. In order to cultivate Tâi-kang people to become low-level civil servants, they mainly taught English, arithmetic, drawing, classical Chinese, etc. Tuition fees were required, and the study period was 6 years. The languages of instruction were English and Taiwanese."
         },
         {
           "year": "1925.09",
-          "content": "Chhoa Poe-hoe's \"Ten Humble Opinions\" was published, and read by Tai Kang literati. In November, literati who knew POJ established the Tai Kang Cultural Association (TKCA), making the promotion of education, the development of culture, and the popularization of POJ to connect with Western culture their main advocacy."
+          "content": "Chhòa Pôe-hóe's \"Ten Humble Opinions\" was published, and read by Tâi-kang literati. In November, literati who knew POJ established the Tâi-kang Cultural Association (TKCA), making the promotion of education, the development of culture, and the popularization of POJ to connect with Western culture their main advocacy."
         },
         {
           "year": "1926.01",
-          "content": "TKCA established \"Khun Tiau\" (鯤潮) as their regular publication, issued monthly."
+          "content": "TKCA established \"Khun Tiâu\" (鯤潮) as their regular publication, issued monthly."
         },
         {
           "year": "1930",
-          "content": "When recording the speech of Tai Kang people in documents for trials in the courts, the Governor-General's Office would record in POJ for reference."
+          "content": "When recording the speech of Tâi-kang people in documents for trials in the courts, the Governor-General's Office would record in POJ for reference."
         },
         {
           "year": "1930",
-          "content": "TKCA established a Literacy School in Anping, teaching Taiwanese people to use POJ and arithmetic. Most students were children of rebels and Christians; there were both Tai Kang people and Taiwanese people. From this time on, POJ gradually began to appear on contracts such as sales agreements."
+          "content": "TKCA established a Literacy School in An-pêng, teaching Taiwanese people to use POJ and arithmetic. Most students were children of rebels and Christians; there were both Tâi-kang people and Taiwanese people. From this time on, POJ gradually began to appear on contracts such as sales agreements."
         },
         {
           "year": "1935",
-          "content": "Because TKCA argued in the Church News that Japanese compulsory education was better than the British system, the Governor-General's Office announced the implementation of the Tai Kang Education Edict. The Tai-kang School was upgraded to Tai Kang Middle School, and three new schools were established: Anping School, Tho-Siann-A School, and Chhit-ko-liau School, stating that Tai Kang people must enroll and study. However, the proposal to teach POJ was still rejected by the British."
+          "content": "Because TKCA argued in the Church News that Japanese compulsory education was better than the British system, the Governor-General's Office announced the implementation of the Tâi-kang Education Edict. The Tâi-kang School was upgraded to Tâi-kang Middle School, and three new schools were established: An-pêng School, Thô͘-siâⁿ-á School, and Chhit-kó͘-liâu School, stating that Tâi-kang people must enroll and study. However, the proposal to teach POJ was still rejected by the British."
         }
       ],
       "publications_title": "Publications & Works",
       "publications": [
         {
-          "title": "Khun Tiau (鯤潮)",
+          "title": "Khun Tiâu (鯤潮)",
           "language": "Taiwanese (POJ, Hanzi, Classical Chinese)",
           "period": "1926.1 (Inaugural) - 1989.1.5 (Final)",
-          "desc": "The publication of the Tai Kang Cultural Association, starting from January of the year following the establishment of the Cultural Association in 1926, issued monthly.",
+          "desc": "The publication of the Tâi-kang Cultural Association, starting from January of the year following the establishment of the Cultural Association in 1926, issued monthly.",
           "events": [
             {
               "period": "1942.1 - 1945.8",
@@ -310,17 +310,17 @@
             },
             {
               "period": "1989.1",
-              "status": "Publication ceased due to THBK occupying Tai Kang again."
+              "status": "Publication ceased due to THBK occupying Tâi-kang again."
             }
           ],
           "credits": [
             {
               "role": "Publisher",
-              "name": "Tai Kang Cultural Association"
+              "name": "Tâi-kang Cultural Association"
             },
             {
               "role": "Editor-in-Chief",
-              "name": "Kang Hoan"
+              "name": "Kang Hoân"
             }
           ]
         },
@@ -332,11 +332,11 @@
           "credits": [
             {
               "role": "Author",
-              "name": "Ko An-iong"
+              "name": "Ko An-ióng"
             },
             {
               "role": "Publication",
-              "name": "Khun Tiau Vol. 360"
+              "name": "Khun Tiâu Vol. 360"
             }
           ]
         },
@@ -344,27 +344,27 @@
           "title": "Pe̍h-ōe-jī Orthography",
           "language": "Taiwanese",
           "period": "1965.6.4",
-          "desc": "Works from the 1960s were authored by the Tai Kang civilian cultural group, the Tai Kang Cultural Association. They standardized the POJ used by Tai Kang people. In the 1900s, POJ began to become popular. After the victory (of WWII), hyphens were increasingly rarely used. Later, in order to implement formal education in Taiwanese, the civilian POJ without hyphens was standardized.",
+          "desc": "Works from the 1960s were authored by the Tâi-kang civilian cultural group, the Tâi-kang Cultural Association. They standardized the POJ used by Tâi-kang people. In the 1900s, POJ began to become popular. After the victory (of WWII), hyphens were increasingly rarely used. Later, in order to implement formal education in Taiwanese, the civilian POJ without hyphens was standardized.",
           "credits": [
             {
               "role": "Publisher",
-              "name": "Tai Kang Cultural Association"
+              "name": "Tâi-kang Cultural Association"
             },
             {
               "role": "Editor",
-              "name": "Kang Hong"
+              "name": "Kang Hóng"
             }
           ]
         }
       ],
-      "title": "Tai Kang Cultural Association (TCKA)"
+      "title": "Tâi-kang Cultural Association (TCKA)"
     },
     "history_timeline": [
       {
-        "title": "1860s -- Qing Dynasty Ceded Tai-Kang",
+        "title": "1860s -- Qing Dynasty Ceded Tâi-kang",
         "items": [
           {
-            "content": "The Opium War ended with the Treaty of Beijing. Sovereignty over Anping, Luerhmen, Tho-Siann-A, and the Tai-Kang Inner Sea was permanently ceded to the British Empire. It was named British Tai-Kang."
+            "content": "The Opium War ended with the Treaty of Peking. Sovereignty over An-pêng, Lo̍k-ní-mn̂g, Thô͘-siâⁿ-á, and the Tâi-kang Inner Sea was permanently ceded to the British Empire. It was named British Tâi-kang."
           }
         ]
       },
@@ -373,39 +373,39 @@
         "items": [
           {
             "time": "1870s",
-            "content": "In order to record the language used by Tai-Kang people, the British taught POJ in government schools to write Taiwanese. However, except for church congregations, nobody else knew POJ."
+            "content": "In order to record the language used by Tâi-kang people, the British taught POJ in government schools to write Taiwanese. However, except for church congregations, nobody else knew POJ."
           },
           {
             "time": "1910",
-            "content": "The Tai-Kang Governor-General's Office established the Tai-kang School in Anping, the first school in Tai-Kang. To train Tai-Kang people for lower-level civil servant positions, it mainly taught English, arithmetic, drawing, and classical Chinese. Tuition fees were required, and the study period was six years. The languages of instruction were English and Taiwanese."
+            "content": "The Tâi-kang Governor-General's Office established the Tâi-kang School in An-pêng, the first school in Tâi-kang. To train Tâi-kang people for lower-level civil servant positions, it mainly taught English, arithmetic, drawing, and classical Chinese. Tuition fees were required, and the study period was six years. The languages of instruction were English and Taiwanese."
           },
           {
             "time": "September 1925",
-            "content": "Chhoa Poe-hoe's \"Ten Humble Opinions\" was published and read by Tai-Kang literati. In November, literati who knew POJ established the Tai-Kang Cultural Association, advocating for the promotion of education, development of culture, and popularization of POJ to connect with Western culture."
+            "content": "Chhòa Pôe-hóe's \"Ten Humble Opinions\" was published and read by Tâi-kang literati. In November, literati who knew POJ established the Tâi-kang Cultural Association, advocating for the promotion of education, development of culture, and popularization of POJ to connect with Western culture."
           },
           {
             "time": "January 1926",
-            "content": "The Cultural Association established \"Khun Tiau\" (鲲潮) as their regular publication, issued monthly."
+            "content": "The Cultural Association established \"Khun Tiâu\" (鲲潮) as their regular publication, issued monthly."
           },
           {
             "time": "1930",
-            "content": "When recording court trial details of Tai-Kang people speaking, the Governor-General's Office would record in POJ for reference."
+            "content": "When recording court trial details of Tâi-kang people speaking, the Governor-General's Office would record in POJ for reference."
           },
           {
             "time": "1930",
-            "content": "The Cultural Association established a Literacy School in Anping, teaching Taiwanese people to use POJ and arithmetic. Most students were children of fishermen and Christians, including both Tai-Kang and Taiwanese people. From this time, POJ began to appear occasionally on contracts such as sales agreements."
+            "content": "The Cultural Association established a Literacy School in An-pêng, teaching Taiwanese people to use POJ and arithmetic. Most students were children of fishermen and Christians, including both Tâi-kang and Taiwanese people. From this time, POJ began to appear occasionally on contracts such as sales agreements."
           },
           {
             "time": "1935",
-            "content": "Because the Tai-Kang Cultural Association argued in the Church News that Japanese compulsory education was better than the British system, the Governor-General's Office announced the implementation of the Tai-Kang Education Edict. The Tai-kang School was upgraded to Tai-Kang Middle School, and three new schools were established: Anping School, Tho-Siann-A School, and Chhit-ko-liau School, requiring Tai-Kang people to enroll. However, the proposal to teach POJ was still rejected by the British."
+            "content": "Because the Tâi-kang Cultural Association argued in the Church News that Japanese compulsory education was better than the British system, the Governor-General's Office announced the implementation of the Tâi-kang Education Edict. The Tâi-kang School was upgraded to Tâi-kang Middle School, and three new schools were established: An-pêng School, Thô͘-siâⁿ-á School, and Chhit-kó͘-liâu School, requiring Tâi-kang people to enroll. However, the proposal to teach POJ was still rejected by the British."
           }
         ]
       },
       {
-        "title": "1941-1945 -- Japanese Occupation of Tai-Kang",
+        "title": "1941-1945 -- Japanese Occupation of Tâi-kang",
         "items": [
           {
-            "content": "Japan declared war on the United States. On the same day, Japan occupied British Tai-Kang. Anping was annexed to Tainan City, and the remaining territory was divided into Pak-men District and Sin-hong District."
+            "content": "Japan declared war on the United States. On the same day, Japan occupied British Tâi-kang. An-pêng was annexed to Tâi-lâm City, and the remaining territory was divided into Pak-mn̂g District and Sin-hong District."
           }
         ]
       },
@@ -413,11 +413,11 @@
         "title": "1945-1947 -- Chinese Military Occupation",
         "items": [
           {
-            "content": "After the surrender of Japan, the Republic of China (ROC) occupied Taiwan under the orders of the Allied Powers, and British Tai-Kang was similarly occupied by China. Tai-Kang was treated like other parts of Taiwan in the form of \"restoration,\" and the sovereign nation, Britain, did not interfere."
+            "content": "After the surrender of Japan, the Republic of China (ROC) occupied Tâi-oân under the orders of the Allied Powers, and British Tâi-kang was similarly occupied by China. Tâi-kang was treated like other parts of Tâi-oân in the form of \"restoration,\" and the sovereign nation, Britain, did not interfere."
           },
           {
             "time": "After February 28, 1947",
-            "content": "Due to the atrocities committed by the KMT (THBK) during the 228 Incident, coupled with the British government's attitude toward the Chinese Civil War, Britain notified the KMT (THBK) on May 1, 1947, and issued the \"Declaration on the Status of Tai-Kang,\" asserting British sovereignty over Tai-Kang and announcing that representatives would be sent to take over Tai-Kang on August 1, 1947."
+            "content": "Due to the atrocities committed by the KMT (THBK) during the 228 Incident, coupled with the British government's attitude toward the Chinese Civil War, Britain notified the KMT (THBK) on May 1, 1947, and issued the \"Declaration on the Status of Tâi-kang,\" asserting British sovereignty over Tâi-kang and announcing that representatives would be sent to take over Tâi-kang on August 1, 1947."
           }
         ]
       },
@@ -425,27 +425,27 @@
         "title": "After August 1, 1947 -- Return to British Rule",
         "items": [
           {
-            "content": "British Tai-Kang returned to British administration. Due to the situation in Taiwan under KMT (THBK) occupation, many people came to the recovered Anping for refuge. Tai-Kang people at this time were extremely grateful that Tai-Kang had taken a different path from Taiwan."
+            "content": "British Tâi-kang returned to British administration. Due to the situation in Tâi-oân under KMT (THBK) occupation, many people came to the recovered An-pêng for refuge. Tâi-kang people at this time were extremely grateful that Tâi-kang had taken a different path from Tâi-oân."
           },
           {
             "time": "January 6, 1950",
-            "content": "Britain recognized the People's Republic of China (PRC). Except for Taiwanese traders and KMT (THBK) officials for diplomatic purposes, no KMT (THBK) personnel were allowed to enter Tai-Kang. The British Tai-Kang Affairs Office also served as the British Consulate in Tainan."
+            "content": "Britain recognized the People's Republic of China (PRC). Except for Taiwanese traders and KMT (THBK) officials for diplomatic purposes, no KMT (THBK) personnel were allowed to enter Tâi-kang. The British Tâi-kang Affairs Office also served as the British Consulate in Tâi-lâm."
           },
           {
             "time": "1950s",
-            "content": "Due to the appeals of the Cultural Association and the increase in the POJ-using population, the Governor-General's Office finally added Pe̍h-ōe-jī courses, specifically teaching POJ and Taiwanese literature. The Cultural Association also translated Taiwanese folk ballad books into POJ as poetry teaching materials. From this year, the number of people who knew POJ in Tai-Kang and southern Taiwan grew larger."
+            "content": "Due to the appeals of the Cultural Association and the increase in the POJ-using population, the Governor-General's Office finally added Pe̍h-ōe-jī courses, specifically teaching POJ and Taiwanese literature. The Cultural Association also translated Tâi-oân folk ballad books into POJ as poetry teaching materials. From this year, the number of people who knew POJ in Tâi-kang and southern Tâi-oân grew larger."
           },
           {
             "time": "1960s",
-            "content": "Due to the needs of the Indo-Pacific strategy, the United States leased Anping from Britain with a certain amount of US dollars to build the US Navy Anping Naval Port. The US military did not exercise actual administration outside the port area, and the town of Anping in British Tai-Kang remained under British control."
+            "content": "Due to the needs of the Indo-Pacific strategy, the United States leased An-pêng from Britain with a certain amount of US dollars to build the US Navy An-pêng Naval Port. The US military did not exercise actual administration outside the port area, and the town of An-pêng in British Tâi-kang remained under British control."
           },
           {
             "time": "March 13, 1972",
-            "content": "Britain established formal ambassadorial relations with the People's Republic of China and closed its consulate in Taipei. The British Consulate in Tainan was reorganized into the Tainan Office of the Anglo-Taiwan Trade Promotion Association."
+            "content": "Britain established formal ambassadorial relations with the People's Republic of China and closed its consulate in Tâi-pak. The British Consulate in Tâi-lâm was reorganized into the Tâi-lâm Office of the Anglo-Tâi-oân Trade Promotion Association."
           },
           {
             "time": "1975",
-            "content": "Britain planned to allow the Tai-Kang people to achieve self-governance, so they began establishing an electoral system. The British Tai-Kang Citizens' Assembly convened."
+            "content": "Britain planned to allow the Tâi-kang people to achieve self-governance, so they began establishing an electoral system. The British Tâi-kang Citizens' Assembly convened."
           }
         ]
       },
@@ -454,14 +454,14 @@
         "items": [
           {
             "time": "1977",
-            "content": "Tai-Kang declared independence as the Tai-Kang Free State, joining the Commonwealth of Nations. Defence responsibilities remained with Britain. Due to commitments to the US, troops were only stationed outside of Anping. The British monarch was not recognized as sovereign. A system of separation of powers was implemented with a unicameral Parliament, headed by a Premier as government chief and a President as head of state. The Anglo-Taiwan Trade Promotion Association also continued to operate in Anping."
+            "content": "Tâi-kang declared independence as the Tâi-kang Free State, joining the Commonwealth of Nations. Defence responsibilities remained with Britain. Due to commitments to the US, troops were only stationed outside of An-pêng. The British monarch was not recognized as sovereign. A system of separation of powers was implemented with a unicameral Parliament, headed by a Premier as government chief and a President as head of state. The Anglo-Tâi-oân Trade Promotion Association also continued to operate in An-pêng."
           },
           {
             "time": "1978",
-            "content": "Knowing internally that the US would soon sever ties with the KMT (THBK), and to maintain the KMT's (THBK) containment of Red China and the US military presence in Taiwan, the US and the KMT (THBK) signed the \"Anping Treaty,\" transferring the lease of Anping to the KMT (THBK). In return, the US obtained basing rights at the Zuoying Naval Port."
+            "content": "Knowing internally that the US would soon sever ties with the KMT (THBK), and to maintain the KMT's (THBK) containment of Red China and the US military presence in Tâi-oân, the US and the KMT (THBK) signed the \"An-pêng Treaty,\" transferring the lease of An-pêng to the KMT (THBK). In return, the US obtained basing rights at the Chó-iâⁿ Naval Port."
           },
           {
-            "content": "The Tai-Kang people raised banners to oppose the KMT (THBK) forces but were suppressed. The political dissidents who had fled to Anping at the time faced a tragic end similar to that in real life. The KMT (THBK) did not advance into the remaining territories because a small British presence was there, and knowing they had no sovereignty, they did not dare to cross the line, fearing it would further damage the international reputation of \"Free China.\""
+            "content": "The Tâi-kang people raised banners to oppose the KMT (THBK) forces but were suppressed. The political dissidents who had fled to An-pêng at the time faced a tragic end similar to that in real life. The KMT (THBK) did not advance into the remaining territories because a small British presence was there, and knowing they had no sovereignty, they did not dare to cross the line, fearing it would further damage the international reputation of \"Free China.\""
           },
           {
             "time": "January 1, 1979",
@@ -469,21 +469,21 @@
           },
           {
             "time": "July 18, 1979",
-            "content": "The Parliament of the Tai-Kang Free State voted to amend the Constitution, changing the form of state from a Free State to a Federal Republic. The position of Premier was abolished in favor of a semi-presidential system. According to the ruling party, this change was to achieve complete independence and become a normal nation. The reason for choosing a federal system was \"so that our Taiwanese compatriots next door would know what kind of regime our island needs to guarantee equality for all ethnic groups upon independence.\" After independence, the full official name was \"Tai-Kang Federal Republic,\" remaining in the Commonwealth of Nations. These changes took effect on New Year's Day of 1980."
+            "content": "The Parliament of the Tâi-kang Free State voted to amend the Constitution, changing the form of state from a Free State to a Federal Republic. The position of Premier was abolished in favor of a semi-presidential system. According to the ruling party, this change was to achieve complete independence and become a normal nation. The reason for choosing a federal system was \"so that our Taiwanese compatriots next door would know what kind of regime our island needs to guarantee equality for all ethnic groups upon independence.\" After independence, the full official name was \"Tâi-kang Federal Republic,\" remaining in the Commonwealth of Nations. These changes took effect on New Year's Day of 1980."
           },
           {
             "time": "January 1, 1980",
-            "content": "The Tai-Kang Free State formally became the Tai-Kang Federal Republic, and the Tai-Kang Rifle Brigade was reorganized into the Tai-Kang Federal Republic Armed Forces."
+            "content": "The Tâi-kang Free State formally became the Tâi-kang Federal Republic, and the Tâi-kang Rifle Brigade was reorganized into the Tâi-kang Federal Republic Armed Forces."
           },
           {
             "time": "January 1, 1989",
-            "content": "Britain announced it would no longer station troops in Tai-Kang. The KMT (THBK) occupied populated settlements like Tho-Siann-A. By this point, although Tai-Kang did not dissolve, it was reduced to its current territory: three small sandbars—Wang-a-liau, Qingshangang, and Dingtoue. Wang-a-liau became the new capital, later referred to by the remaining residents as the \"Capital Sandbar\" (Kiaⁿ-sòaⁿ)."
+            "content": "Britain announced it would no longer station troops in Tâi-kang. The KMT (THBK) occupied populated settlements like Thô͘-siâⁿ-á. By this point, although Tâi-kang did not dissolve, it was reduced to its current territory: three small sandbars—Bāng-á-liâu, Chheⁿ-soaⁿ-káng, and Téng-thâu-hia̍h. Bāng-á-liâu became the new capital, later referred to by the remaining residents as the \"Capital Sandbar\" (Kiaⁿ-sòaⁿ)."
           },
           {
-            "content": "The Tai-Kang people were scattered. Those who still wished for national restoration secretly established a government-in-exile to maintain state operations, reorganizing the former soldiers into the Kiaⁿ-sòaⁿ Rifle Brigade, waiting for the day we raise banners alongside the Taiwanese."
+            "content": "The Tâi-kang people were scattered. Those who still wished for national restoration secretly established a government-in-exile to maintain state operations, reorganizing the former soldiers into the Kiaⁿ-sòaⁿ Rifle Brigade, waiting for the day we raise banners alongside the Taiwanese."
           },
           {
-            "content": "Later, time in Tai-Kang stood still, and no one spoke of it again. The only residents of Tai-Kang left are the fish of the Inner Sea, the black mangroves along the shore, and the oysters on the oyster beds. Ah, and me, all alone."
+            "content": "Later, time in Tâi-kang stood still, and no one spoke of it again. The only residents of Tâi-kang left are the fish of the Inner Sea, the black mangroves along the shore, and the oysters on the oyster beds. Ah, and me, all alone."
           }
         ]
       }
